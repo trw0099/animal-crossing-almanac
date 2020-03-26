@@ -1,0 +1,1145 @@
+[
+  {
+    "Name": "Agris Butterfly",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr - Sept",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 5PM",
+    "Price": 3000
+  },
+  {
+    "Name": "Atlas Moth",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr - Sept",
+    "Location": "Tree",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "7PM - 4AM",
+    "Price": 3000
+  },
+  {
+    "Name": "Ant",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "On rotten fruit and turnips",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 80
+  },
+  {
+    "Name": "Bagworm",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Shake tree",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 600
+  },
+  {
+    "Name": "Centipede",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 6,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - June",
+    "Location": "Hit rocks",
+    "Times": [
+      {
+        "Start": 17,
+        "End": 23,
+        "All": false
+      }
+    ],
+    "TimesString": "5PM - 11PM",
+    "Price": 430
+  },
+  {
+    "Name": "Citrus Long-Horned Beetle",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Tree stump",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 350
+  },
+  {
+    "Name": "Common Butterfly",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 6,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - June",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "4AM - 7PM",
+    "Price": 160
+  },
+  {
+    "Name": "Cricket",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - Nov",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 17,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "5PM - 8AM",
+    "Price": 130
+  },
+  {
+    "Name": "Damselfly",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 2,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - Feb",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 500
+  },
+  {
+    "Name": "Darner Dragonfly",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr - Oct",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 5PM",
+    "Price": 230
+  },
+  {
+    "Name": "Diving Beetle",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Sept",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 7PM",
+    "Price": 800
+  },
+  {
+    "Name": "Dung Beetle",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 2,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Feb",
+    "Location": "Snowballs",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 2500
+  },
+  {
+    "Name": "Earth-Boring Dung Beetle",
+    "Seasons": [
+      {
+        "Start": 7,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "July - Sept",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 300
+  },
+  {
+    "Name": "Emperor Butterfly",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      },
+      {
+        "Start": 6,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar, June - Sept",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 17,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "5PM - 8AM",
+    "Price": 4000
+  },
+  {
+    "Name": "Flea",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr - Nov",
+    "Location": "On a flea-infested villager",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 70
+  },
+  {
+    "Name": "Fly",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "On rotten fruit or garbage",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 60
+  },
+  {
+    "Name": "Grasshopper",
+    "Seasons": [
+      {
+        "Start": 7,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "July - Sept",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 5PM",
+    "Price": 160
+  },
+  {
+    "Name": "Hermit Crab",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Beach",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "7PM - 8AM",
+    "Price": 1000
+  },
+  {
+    "Name": "Honeybee",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 7,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - July",
+    "Location": "Near flowers",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 5PM",
+    "Price": 200
+  },
+  {
+    "Name": "Ladybug",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 6,
+        "All": false
+      },
+      {
+        "Start": 10,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - June, Oct",
+    "Location": "Flowers",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 5PM",
+    "Price": 200
+  },
+  {
+    "Name": "Long Locust",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr - Nov",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 7PM",
+    "Price": 200
+  },
+  {
+    "Name": "Madagascan Sunset Moth",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr - Sept",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 4PM",
+    "Price": 2500
+  },
+  {
+    "Name": "Man-Faced Stink Bug",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - Oct",
+    "Location": "Flowers",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "7PM - 8AM",
+    "Price": 1000
+  },
+  {
+    "Name": "Mantis",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - Nov",
+    "Location": "Flowers",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 5PM",
+    "Price": 430
+  },
+  {
+    "Name": "Migratory Locust",
+    "Seasons": [
+      {
+        "Start": 2,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Feb - May",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 7PM",
+    "Price": 200
+  },
+  {
+    "Name": "Mole Cricket",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - May",
+    "Location": "Underground",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 500
+  },
+  {
+    "Name": "Monarch Butterfly",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - Nov",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "4AM - 5PM",
+    "Price": 140
+  },
+  {
+    "Name": "Mosquito",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Sept",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 17,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "5PM - 4AM",
+    "Price": 130
+  },
+  {
+    "Name": "Moth",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Lit windows",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "7PM - 4AM",
+    "Price": 130
+  },
+  {
+    "Name": "Orchid Mantis",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - Nov",
+    "Location": "Flowers",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 5PM",
+    "Price": 2400
+  },
+  {
+    "Name": "Paper Kite Butterfly",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 7PM",
+    "Price": 1000
+  },
+  {
+    "Name": "Peacock Butterfly",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 6,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - June",
+    "Location": "Near black, blue, or purple flowers",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "4AM - 7PM",
+    "Price": 2500
+  },
+  {
+    "Name": "Pill Bug",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 6,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - June",
+    "Location": "Hit rocks",
+    "Times": [
+      {
+        "Start": 23,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "11PM - 4PM",
+    "Price": 250
+  },
+  {
+    "Name": "Pondskater",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Sept",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 7PM",
+    "Price": 130
+  },
+  {
+    "Name": "Queen Alexandra’s Birdwing",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Sept",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 4PM",
+    "Price": 4000
+  },
+  {
+    "Name": "Rainbow Stag",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Sept",
+    "Location": "Tree",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "7PM - 8AM",
+    "Price": 6000
+  },
+  {
+    "Name": "Rajah Brooke’s Birdwing",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 2,
+        "All": false
+      },
+      {
+        "Start": 4,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Feb, Apr - Sept",
+    "Location": "Near black, blue, or purple flowers",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 5PM",
+    "Price": 2500
+  },
+  {
+    "Name": "Red Dragonfly",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - Oct",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 7PM",
+    "Price": 180
+  },
+  {
+    "Name": "Rosalia Batsei Beetle",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 6,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - June",
+    "Location": "Tree stump",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 3000
+  },
+  {
+    "Name": "Scorpion",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Oct",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "7PM - 4AM",
+    "Price": 8000
+  },
+  {
+    "Name": "Snail",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Rock (rain)",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 250
+  },
+  {
+    "Name": "Spider",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Shake tree",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "7PM - 8AM",
+    "Price": 600
+  },
+  {
+    "Name": "Stinkbug",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - Oct",
+    "Location": "Flowers",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 120
+  },
+  {
+    "Name": "Tarantula",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - Apr",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "7PM - 4AM",
+    "Price": 8000
+  },
+  {
+    "Name": "Tiger Beetle",
+    "Seasons": [
+      {
+        "Start": 2,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Feb - Oct",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 1500
+  },
+  {
+    "Name": "Tiger Butterfly",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - Sept",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "4AM - 7PM",
+    "Price": 240
+  },
+  {
+    "Name": "Violin Beetle",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 6,
+        "All": false
+      },
+      {
+        "Start": 9,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - June, Sept - Nov",
+    "Location": "Tree stump",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 450
+  },
+  {
+    "Name": "Walker Cicada",
+    "Seasons": [
+      {
+        "Start": 8,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Aug - Sept",
+    "Location": "Tree",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "8AM - 4PM",
+    "Price": 400
+  },
+  {
+    "Name": "Walking Leaf",
+    "Seasons": [
+      {
+        "Start": 7,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "July - Sept",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 600
+  },
+  {
+    "Name": "Walking Stick",
+    "Seasons": [
+      {
+        "Start": 7,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "July - Nov",
+    "Location": "Tree",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 20,
+        "All": false
+      },
+      {
+        "Start": 16,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "4AM - 8PM, 4PM - 8AM",
+    "Price": 600
+  },
+  {
+    "Name": "Wasp",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Shake tree",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 2500
+  },
+  {
+    "Name": "Wharf Roach",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Beach (rocks)",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 200
+  },
+  {
+    "Name": "Yellow Butterfly",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 6,
+        "All": false
+      },
+      {
+        "Start": 9,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - June, Sept - Oct",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "4AM - 7PM",
+    "Price": 160
+  }
+]

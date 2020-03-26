@@ -1,0 +1,492 @@
+[
+    {
+      "Name": "Anchovy",
+      "Seasons": "All year",
+      "Location": "Ocean",
+      "Time": "4 AM - 9 PM",
+      "Price": "200"
+    },
+    {
+      "Name": "Angelfish",
+      "Seasons": "Nov - Apr",
+      "Location": "River",
+      "Time": "4 PM - 9 AM",
+      "Price": "3,000"
+    },
+    {
+      "Name": "Arapaima",
+      "Seasons": "Dec - Mar",
+      "Location": "River",
+      "Time": "4 PM - 9 AM",
+      "Price": "8,000"
+    },
+    {
+      "Name": "Arowana",
+      "Seasons": "Dec - Mar",
+      "Location": "River",
+      "Time": "4 PM - 9 AM",
+      "Price": "10,000"
+    },
+    {
+      "Name": "Barred Knifejaw",
+      "Seasons": "Sept - May",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "5,000"
+    },
+    {
+      "Name": "Barreleye",
+      "Seasons": "All year",
+      "Location": "Ocean",
+      "Time": "9 PM - 4 AM",
+      "Price": "15,000"
+    },
+    {
+      "Name": "Betta",
+      "Seasons": "Nov - Apr",
+      "Location": "River",
+      "Time": "9 AM - 4 PM",
+      "Price": "2,500"
+    },
+    {
+      "Name": "Bitterling",
+      "Seasons": "May - Sept",
+      "Location": "River",
+      "Time": "All day",
+      "Price": "900"
+    },
+    {
+      "Name": "Black Bass",
+      "Seasons": "All year",
+      "Location": "River",
+      "Time": "All day",
+      "Price": "400"
+    },
+    {
+      "Name": "Blowfish",
+      "Seasons": "May - Aug",
+      "Location": "Ocean",
+      "Time": "9 PM - 4 AM",
+      "Price": "5,000"
+    },
+    {
+      "Name": "Blue Marlin",
+      "Seasons": "Jan - Mar, May - Oct",
+      "Location": "Pier",
+      "Time": "All day",
+      "Price": "10,000"
+    },
+    {
+      "Name": "Bluegill",
+      "Seasons": "All year",
+      "Location": "River",
+      "Time": "9 AM - 4 PM",
+      "Price": "180"
+    },
+    {
+      "Name": "Carp",
+      "Seasons": "All year",
+      "Location": "River",
+      "Time": "All day",
+      "Price": "300"
+    },
+    {
+      "Name": "Catfish",
+      "Seasons": "Nov - Apr",
+      "Location": "Pond",
+      "Time": "4 PM - 9 AM",
+      "Price": "800"
+    },
+    {
+      "Name": "Char",
+      "Seasons": "Mar - May, Sept - Dec",
+      "Location": "River",
+      "Time": "4 PM - 9 AM",
+      "Price": "3,800"
+    },
+    {
+      "Name": "Cherry Salmon",
+      "Seasons": "Mar - May, Sept - Dec",
+      "Location": "River (Clifftop)",
+      "Time": "All day",
+      "Price": "1,000"
+    },
+    {
+      "Name": "Clownfish",
+      "Seasons": "Oct - Mar",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "650"
+    },
+    {
+      "Name": "Coelacanth",
+      "Seasons": "All year",
+      "Location": "Ocean (Rain)",
+      "Time": "All day",
+      "Price": "15,000"
+    },
+    {
+      "Name": "Crawfish",
+      "Seasons": "Oct - Mar",
+      "Location": "Pond",
+      "Time": "All day",
+      "Price": "200"
+    },
+    {
+      "Name": "Crucian Carp",
+      "Seasons": "All year",
+      "Location": "River",
+      "Time": "All day",
+      "Price": "160"
+    },
+    {
+      "Name": "Dab",
+      "Seasons": "Apr - Oct",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "300"
+    },
+    {
+      "Name": "Dace",
+      "Seasons": "All year",
+      "Location": "River",
+      "Time": "4 PM - 9 AM",
+      "Price": "240"
+    },
+    {
+      "Name": "Dorado",
+      "Seasons": "Dec - Mar",
+      "Location": "River",
+      "Time": "4 AM - 9 PM",
+      "Price": "12,000"
+    },
+    {
+      "Name": "Football Fish",
+      "Seasons": "May - Sept",
+      "Location": "Ocean",
+      "Time": "4 PM - 9 AM",
+      "Price": "2,500"
+    },
+    {
+      "Name": "Freshwater Goby",
+      "Seasons": "All year",
+      "Location": "River",
+      "Time": "4 PM - 9 AM",
+      "Price": "400"
+    },
+    {
+      "Name": "Gar",
+      "Seasons": "Dec - Mar",
+      "Location": "Pond",
+      "Time": "4 PM - 9 AM",
+      "Price": "4,800"
+    },
+    {
+      "Name": "Golden Trout",
+      "Seasons": "Mar - May, Sept - Nov",
+      "Location": "River (Clifftop)",
+      "Time": "4 PM - 9 AM",
+      "Price": "15,000"
+    },
+    {
+      "Name": "Goldfish",
+      "Seasons": "All year",
+      "Location": "Pond",
+      "Time": "All day",
+      "Price": "1,300"
+    },
+    {
+      "Name": "Great White Shark",
+      "Seasons": "Dec - Mar",
+      "Location": "Ocean",
+      "Time": "4 PM - 9 AM",
+      "Price": "15,000"
+    },
+    {
+      "Name": "Guppy",
+      "Seasons": "Oct - May",
+      "Location": "River",
+      "Time": "9 AM - 4 PM",
+      "Price": "1,300"
+    },
+    {
+      "Name": "Hammerhead Shark",
+      "Seasons": "Dec - Mar",
+      "Location": "Ocean",
+      "Time": "4 PM - 9 AM",
+      "Price": "8,000"
+    },
+    {
+      "Name": "Horse Mackerel",
+      "Seasons": "All year",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "150"
+    },
+    {
+      "Name": "King Salmon",
+      "Seasons": "Mar",
+      "Location": "River (Mouth)",
+      "Time": "All day",
+      "Price": "1,800"
+    },
+    {
+      "Name": "Koi",
+      "Seasons": "All year",
+      "Location": "Pond",
+      "Time": "4 PM - 9 AM",
+      "Price": "4,000"
+    },
+    {
+      "Name": "Loach",
+      "Seasons": "Sept - Nov",
+      "Location": "River",
+      "Time": "All day",
+      "Price": "400"
+    },
+    {
+      "Name": "Mitten Crab",
+      "Seasons": "Mar - May",
+      "Location": "River",
+      "Time": "4 PM - 9 AM",
+      "Price": "2,000"
+    },
+    {
+      "Name": "Moray Eel",
+      "Seasons": "Feb - Apr",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "2,000"
+    },
+    {
+      "Name": "Neon Tetra",
+      "Seasons": "Oct - May",
+      "Location": "River",
+      "Time": "4 AM - 4 PM",
+      "Price": "500"
+    },
+    {
+      "Name": "Oarfish",
+      "Seasons": "June - Nov",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "9,000"
+    },
+    {
+      "Name": "Ocean Sunfish",
+      "Seasons": "Jan - Mar",
+      "Location": "Ocean",
+      "Time": "4 AM - 9 PM",
+      "Price": "4,000"
+    },
+    {
+      "Name": "Olive Flounder",
+      "Seasons": "All year",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "800"
+    },
+    {
+      "Name": "Pale Chub",
+      "Seasons": "All year",
+      "Location": "River",
+      "Time": "9 AM - 4 PM",
+      "Price": "200"
+    },
+    {
+      "Name": "Pike",
+      "Seasons": "Mar - June",
+      "Location": "River",
+      "Time": "All day",
+      "Price": "1,800"
+    },
+    {
+      "Name": "Piranha",
+      "Seasons": "Dec - Mar",
+      "Location": "River",
+      "Time": "9 AM - 4 PM4 AM - 9 PM",
+      "Price": "2,500"
+    },
+    {
+      "Name": "Pond Smelt",
+      "Seasons": "June - Aug",
+      "Location": "River",
+      "Time": "All day",
+      "Price": "320"
+    },
+    {
+      "Name": "Pop-eyed Goldfish",
+      "Seasons": "All year",
+      "Location": "Pond",
+      "Time": "9AM - 4PM",
+      "Price": "1,300"
+    },
+    {
+      "Name": "Puffer Fish",
+      "Seasons": "Jan - Mar",
+      "Location": "Ocean",
+      "Time": "Any Time",
+      "Price": "250"
+    },
+    {
+      "Name": "Rainbowfish",
+      "Seasons": "Nov - Apr",
+      "Location": "River",
+      "Time": "9 AM - 4 PM",
+      "Price": "800"
+    },
+    {
+      "Name": "Ranchu Goldfish",
+      "Seasons": "All year",
+      "Location": "Pond",
+      "Time": "9 AM - 4 PM",
+      "Price": "4,500"
+    },
+    {
+      "Name": "Ray",
+      "Seasons": "Feb - May",
+      "Location": "Ocean",
+      "Time": "4 AM - 9 PM",
+      "Price": "3,000"
+    },
+    {
+      "Name": "Red Snapper",
+      "Seasons": "All year",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "3,000"
+    },
+    {
+      "Name": "Ribbon Eel",
+      "Seasons": "Jan - Apr",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "600"
+    },
+    {
+      "Name": "Salmon",
+      "Seasons": "Mar",
+      "Location": "River (Mouth)",
+      "Time": "All day",
+      "Price": "700"
+    },
+    {
+      "Name": "Saw Shark",
+      "Seasons": "Dec - Mar",
+      "Location": "Ocean",
+      "Time": "4 PM - 9 AM",
+      "Price": "12,000"
+    },
+    {
+      "Name": "Sea Bass",
+      "Seasons": "All year",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "400"
+    },
+    {
+      "Name": "Sea Butterfly",
+      "Seasons": "June - Sept",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "1,000"
+    },
+    {
+      "Name": "Seahorse",
+      "Seasons": "Oct - May",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "1,100"
+    },
+    {
+      "Name": "Soft-shelled Turtle",
+      "Seasons": "Feb - Mar",
+      "Location": "River",
+      "Time": "4 PM - 9 AM",
+      "Price": "3,750"
+    },
+    {
+      "Name": "Squid",
+      "Seasons": "June - Feb",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "500"
+    },
+    {
+      "Name": "Stringfish",
+      "Seasons": "June - Sept",
+      "Location": "River (Clifftop)",
+      "Time": "4 PM - 9 AM",
+      "Price": "15,000"
+    },
+    {
+      "Name": "Sturgeon",
+      "Seasons": "Mar - Sept",
+      "Location": "River (Mouth)",
+      "Time": "All day",
+      "Price": "10,000"
+    },
+    {
+      "Name": "Suckerfish",
+      "Seasons": "Dec - Mar",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "1,500"
+    },
+    {
+      "Name": "Surgeonfish",
+      "Seasons": "Oct - Mar",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "1,000"
+    },
+    {
+      "Name": "Sweetfish",
+      "Seasons": "Jan - Mar",
+      "Location": "River",
+      "Time": "All day",
+      "Price": "900"
+    },
+    {
+      "Name": "Tadpole",
+      "Seasons": "Sept - Jan",
+      "Location": "Pond",
+      "Time": "All day",
+      "Price": "100"
+    },
+    {
+      "Name": "Tilapia",
+      "Seasons": "Dec - Apr",
+      "Location": "River",
+      "Time": "All day",
+      "Price": "800"
+    },
+    {
+      "Name": "Tuna",
+      "Seasons": "May - Oct",
+      "Location": "Pier",
+      "Time": "All day",
+      "Price": "7,000"
+    },
+    {
+      "Name": "Whale Shark",
+      "Seasons": "Dec - Mar",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "13,000"
+    },
+    {
+      "Name": "Yellow Perch",
+      "Seasons": "Apr - Sept",
+      "Location": "River",
+      "Time": "All day",
+      "Price": "300"
+    },
+    {
+      "Name": "Zebra Turkeyfish",
+      "Seasons": "Jan - May, Oct - Nov",
+      "Location": "Ocean",
+      "Time": "All day",
+      "Price": "500"
+    }
+   ]

@@ -1,0 +1,391 @@
+[
+    {
+        "Bug": "Agris Butterfly",
+        "Seasonality": "Oct - Mar",
+        "Location": "Flying",
+        "Time": "8 AM - 5 PM",
+        "Sell Price": "3,000"
+    },
+    {
+        "Bug": "Atlas Moth",
+        "Seasonality": "Oct - Mar",
+        "Location": "Tree",
+        "Time": "7 PM - 4 AM",
+        "Sell Price": "3,000"
+    },
+    {
+        "Bug": "Ant",
+        "Seasonality": "All year",
+        "Location": "Rotten fruit or turnips",
+        "Time": "All day",
+        "Sell Price": "80"
+    },
+    {
+        "Bug": "Bagworm",
+        "Seasonality": "All year",
+        "Location": "Shake tree",
+        "Time": "All day",
+        "Sell Price": "600"
+    },
+    {
+        "Bug": "Centipede",
+        "Seasonality": "Mar - Dec",
+        "Location": "Hit rocks",
+        "Time": "All day",
+        "Sell Price": "430"
+    },
+    {
+        "Bug": "Citrus Long-Horned Beetle",
+        "Seasonality": "All year",
+        "Location": "Tree stump",
+        "Time": "All day",
+        "Sell Price": "350"
+    },
+    {
+        "Bug": "Common Butterfly",
+        "Seasonality": "Mar - Dec",
+        "Location": "Flying",
+        "Time": "4 AM - 7PM",
+        "Sell Price": "160"
+    },
+    {
+        "Bug": "Cricket",
+        "Seasonality": "Mar - May",
+        "Location": "Ground",
+        "Time": "5 PM - 8 AM",
+        "Sell Price": "130"
+    },
+    {
+        "Bug": "Damselfly",
+        "Seasonality": "May - Aug",
+        "Location": "Flying",
+        "Time": "All day",
+        "Sell Price": "500"
+    },
+    {
+        "Bug": "Darner Dragonfly",
+        "Seasonality": "Oct - Apr",
+        "Location": "Flying",
+        "Time": "8 AM - 5 PM",
+        "Sell Price": "230"
+    },
+    {
+        "Bug": "Diving Beetle",
+        "Seasonality": "Nov - Mar",
+        "Location": "River",
+        "Time": "8 AM - 7 PM",
+        "Sell Price": "800"
+    },
+    {
+        "Bug": "Dung Beetle",
+        "Seasonality": "June - Aug",
+        "Location": "Snowballs",
+        "Time": "All day",
+        "Sell Price": "2,500"
+    },
+    {
+        "Bug": "Earth-Boring Dung Beetle",
+        "Seasonality": "Jan - Mar",
+        "Location": "Ground",
+        "Time": "All day",
+        "Sell Price": "300"
+    },
+    {
+        "Bug": "Emperor Butterfly",
+        "Seasonality": [
+            "Dec - Mar",
+            "June - Sept"
+        ],
+        "Location": "Flying",
+        "Time": "5 PM - 8 AM",
+        "Sell Price": "4,000"
+    },
+    {
+        "Bug": "Flea",
+        "Seasonality": "Oct - May",
+        "Location": "On a flea-infested Villager",
+        "Time": "All day",
+        "Sell Price": "70"
+    },
+    {
+        "Bug": "Fly",
+        "Seasonality": "All year",
+        "Location": "On rotten fruit or garbage",
+        "Time": "All day",
+        "Sell Price": "60"
+    },
+    {
+        "Bug": "Grasshopper",
+        "Seasonality": "Jan - Mar",
+        "Location": "Ground",
+        "Time": "8 AM - 5 PM",
+        "Sell Price": "160"
+    },
+    {
+        "Bug": "Hermit Crab",
+        "Seasonality": "All year",
+        "Location": "Beach",
+        "Time": "7 PM - 8 AM",
+        "Sell Price": "1,000"
+    },
+    {
+        "Bug": "Honeybee",
+        "Seasonality": "Sept - Jan",
+        "Location": "Near flowers",
+        "Time": "8 AM - 5 PM",
+        "Sell Price": "200"
+    },
+    {
+        "Bug": "Ladybug",
+        "Seasonality": [
+            "Apr",
+            "Sept - Dec"
+        ],
+        "Location": "Flowers",
+        "Time": "8 AM - 5 PM",
+        "Sell Price": "200"
+    },
+    {
+        "Bug": "Long Locust",
+        "Seasonality": "Oct - May",
+        "Location": "Ground",
+        "Time": "8 AM - 7 PM",
+        "Sell Price": "200"
+    },
+    {
+        "Bug": "Madagascan Sunset Moth",
+        "Seasonality": "Oct - Mar",
+        "Location": "Flying",
+        "Time": "8 AM - 4 PM",
+        "Sell Price": "2,500"
+    },
+    {
+        "Bug": "Man-Faced Stink Bug",
+        "Seasonality": "Sept - Apr",
+        "Location": "Flowers",
+        "Time": "7 PM - 8 AM",
+        "Sell Price": "1,000"
+    },
+    {
+        "Bug": "Mantis",
+        "Seasonality": "Sept - Apr",
+        "Location": "Flowers",
+        "Time": "8 AM - 5 PM",
+        "Sell Price": "430"
+    },
+    {
+        "Bug": "Migratory Locust",
+        "Seasonality": "Feb - May",
+        "Location": "Ground",
+        "Time": "8 AM - 7 PM",
+        "Sell Price": "200"
+    },
+    {
+        "Bug": "Mole Cricket",
+        "Seasonality": "May - Nov",
+        "Location": "Underground",
+        "Time": "All day",
+        "Sell Price": "500"
+    },
+    {
+        "Bug": "Monarch Butterfly",
+        "Seasonality": "Mar - May",
+        "Location": "Flying",
+        "Time": "4 AM - 5 PM",
+        "Sell Price": "140"
+    },
+    {
+        "Bug": "Mosquito",
+        "Seasonality": "Dec - Mar",
+        "Location": "Flying",
+        "Time": "5 PM - 4 AM",
+        "Sell Price": "130"
+    },
+    {
+        "Bug": "Moth",
+        "Seasonality": "All year",
+        "Location": "Lit windows",
+        "Time": "7 PM - 4 AM",
+        "Sell Price": "130"
+    },
+    {
+        "Bug": "Orchid Mantis",
+        "Seasonality": "Sept - May",
+        "Location": "Flowers",
+        "Time": "8 AM - 5 PM",
+        "Sell Price": "2,400"
+    },
+    {
+        "Bug": "Paper Kite Butterfly",
+        "Seasonality": "All year",
+        "Location": "Flying",
+        "Time": "8 AM - 7 PM",
+        "Sell Price": "1,000"
+    },
+    {
+        "Bug": "Peacock Butterfly",
+        "Seasonality": "Sept - Dec",
+        "Location": "Near black, blue, or purple flowers",
+        "Time": "4 AM - 7 PM",
+        "Sell Price": "2,500"
+    },
+    {
+        "Bug": "Pill Bug",
+        "Seasonality": "Mar - Dec",
+        "Location": "Hit rocks",
+        "Time": "11 PM - 4 PM",
+        "Sell Price": "250"
+    },
+    {
+        "Bug": "Pondskater",
+        "Seasonality": "Nov - Mar",
+        "Location": "River",
+        "Time": "8 AM - 7 PM",
+        "Sell Price": "130"
+    },
+    {
+        "Bug": "Queen Alexandra’s Birdwing",
+        "Seasonality": "Nov - Mar",
+        "Location": "Flying",
+        "Time": "8 AM - 4 PM",
+        "Sell Price": "4,000"
+    },
+    {
+        "Bug": "Rainbow Stag",
+        "Seasonality": "Dec - Mar",
+        "Location": "Tree",
+        "Time": "7 PM - 8 AM",
+        "Sell Price": "6,000"
+    },
+    {
+        "Bug": "Rajah Brooke’s Birdwing",
+        "Seasonality": [
+            "June - Aug",
+            "Oct - Mar"
+        ],
+        "Location": "Near black, blue, or purple flowers",
+        "Time": "8 AM - 5 PM",
+        "Sell Price": "2,500"
+    },
+    {
+        "Bug": "Red Dragonfly",
+        "Seasonality": "Mar - Apr",
+        "Location": "Flying",
+        "Time": "8 AM - 7 PM",
+        "Sell Price": "180"
+    },
+    {
+        "Bug": "Rosalia Batsei Beetle",
+        "Seasonality": "Nov - Dec",
+        "Location": "Tree stump",
+        "Time": "All day",
+        "Sell Price": "3,000"
+    },
+    {
+        "Bug": "Scorpion",
+        "Seasonality": "Nov - Apr",
+        "Location": "Ground",
+        "Time": "7 PM - 4 AM",
+        "Sell Price": "8,000"
+    },
+    {
+        "Bug": "Snail",
+        "Seasonality": "All year",
+        "Location": "Rock (rain)",
+        "Time": "All day",
+        "Sell Price": "250"
+    },
+    {
+        "Bug": "Spider",
+        "Seasonality": "All year",
+        "Location": "Shake tree",
+        "Time": "7 PM - 8 AM",
+        "Sell Price": "600"
+    },
+    {
+        "Bug": "Stinkbug",
+        "Seasonality": "Sept - Apr",
+        "Location": "Flowers",
+        "Time": "All day",
+        "Sell Price": "120"
+    },
+    {
+        "Bug": "Tarantula",
+        "Seasonality": "May - Oct",
+        "Location": "Ground",
+        "Time": "7 PM - 4 AM",
+        "Sell Price": "8,000"
+    },
+    {
+        "Bug": "Tiger Beetle",
+        "Seasonality": "Aug - Apr",
+        "Location": "Ground",
+        "Time": "All day",
+        "Sell Price": "1,500"
+    },
+    {
+        "Bug": "Tiger Butterfly",
+        "Seasonality": "Sept - Mar",
+        "Location": "Flying",
+        "Time": "4 AM - 7 PM",
+        "Sell Price": "240"
+    },
+    {
+        "Bug": "Violin Beetle",
+        "Seasonality": [
+            "Mar - May",
+            "Nov - Dec"
+        ],
+        "Location": "Tree stump",
+        "Time": "All day",
+        "Sell Price": "450"
+    },
+    {
+        "Bug": "Walker Cicada",
+        "Seasonality": "Feb - Mar",
+        "Location": "Tree",
+        "Time": "8 AM - 4 PM",
+        "Sell Price": "400"
+    },
+    {
+        "Bug": "Walking Leaf",
+        "Seasonality": "Jan - Mar",
+        "Location": "Ground",
+        "Time": "All day",
+        "Sell Price": "600"
+    },
+    {
+        "Bug": "Walking Stick",
+        "Seasonality": "Jan - May",
+        "Location": "Tree",
+        "Time": [
+            "4 AM - 8 PM",
+            "4 PM - 8 AM"
+        ],
+        "Sell Price": "600"
+    },
+    {
+        "Bug": "Wasp",
+        "Seasonality": "All year",
+        "Location": "Shake Tree",
+        "Time": "All day",
+        "Sell Price": "2,500"
+    },
+    {
+        "Bug": "Wharf Roach",
+        "Seasonality": "All year",
+        "Location": "Beach (rocks)",
+        "Time": "All day",
+        "Sell Price": "200"
+    },
+    {
+        "Bug": "Yellow Butterfly",
+        "Seasonality": [
+            "Mar - Apr",
+            "Sept - Dec"
+        ],
+        "Location": "Flying",
+        "Time": "4 AM - 7 PM",
+        "Sell Price": "160"
+    }
+]

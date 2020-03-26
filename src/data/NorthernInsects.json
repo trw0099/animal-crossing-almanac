@@ -1,0 +1,373 @@
+[
+    {
+        "Name": "Agris Butterfly",
+        "Seasons": "Apr - Sept",
+        "Location": "Flying",
+        "Time": "8AM - 5PM",
+        "Price": "3000"
+    },
+    {
+        "Name": "Atlas Moth",
+        "Seasons": "Apr - Sept",
+        "Location": "Tree",
+        "Time": "7PM - 4AM",
+        "Price": "3000"
+    },
+    {
+        "Name": "Ant",
+        "Seasons": "All year",
+        "Location": "On rotten fruit and turnips",
+        "Time": "All day",
+        "Price": "80"
+    },
+    {
+        "Name": "Bagworm",
+        "Seasons": "All year",
+        "Location": "Shake tree",
+        "Time": "All day",
+        "Price": "600"
+    },
+    {
+        "Name": "Centipede",
+        "Seasons": "Sept - June",
+        "Location": "Hit rocks",
+        "Time": "5PM - 11PM",
+        "Price": "430"
+    },
+    {
+        "Name": "Citrus Long-Horned Beetle",
+        "Seasons": "All year",
+        "Location": "Tree stump",
+        "Time": "All day",
+        "Price": "350"
+    },
+    {
+        "Name": "Common Butterfly",
+        "Seasons": "Sept - June",
+        "Location": "Flying",
+        "Time": "4AM - 7PM",
+        "Price": "160"
+    },
+    {
+        "Name": "Cricket",
+        "Seasons": "Sept - Nov",
+        "Location": "Ground",
+        "Time": "5PM - 8AM",
+        "Price": "130"
+    },
+    {
+        "Name": "Damselfly",
+        "Seasons": "Nov - Feb",
+        "Location": "Flying",
+        "Time": "All day",
+        "Price": "500"
+    },
+    {
+        "Name": "Darner Dragonfly",
+        "Seasons": "Apr - Oct",
+        "Location": "Flying",
+        "Time": "8AM - 5PM",
+        "Price": "230"
+    },
+    {
+        "Name": "Diving Beetle",
+        "Seasons": "May - Sept",
+        "Location": "River",
+        "Time": "8AM - 7PM",
+        "Price": "800"
+    },
+    {
+        "Name": "Dung Beetle",
+        "Seasons": "Dec - Feb",
+        "Location": "Snowballs",
+        "Time": "All day",
+        "Price": "2500"
+    },
+    {
+        "Name": "Earth-Boring Dung Beetle",
+        "Seasons": "July - Sept",
+        "Location": "Ground",
+        "Time": "All day",
+        "Price": "300"
+    },
+    {
+        "Name": "Emperor Butterfly",
+        "Seasons": "Dec - Mar, June - Sept",
+        "Location": "Flying",
+        "Time": "5PM - 8AM",
+        "Price": "4000"
+    },
+    {
+        "Name": "Flea",
+        "Seasons": "Apr - Nov",
+        "Location": "On a flea-infested villager",
+        "Time": "All day",
+        "Price": "70"
+    },
+    {
+        "Name": "Fly",
+        "Seasons": "All year",
+        "Location": "On rotten fruit or garbage",
+        "Time": "All day",
+        "Price": "60"
+    },
+    {
+        "Name": "Grasshopper",
+        "Seasons": "July - Sept",
+        "Location": "Ground",
+        "Time": "8AM - 5PM",
+        "Price": "160"
+    },
+    {
+        "Name": "Hermit Crab",
+        "Seasons": "All year",
+        "Location": "Beach",
+        "Time": "7PM - 8AM",
+        "Price": "1000"
+    },
+    {
+        "Name": "Honeybee",
+        "Seasons": "Mar - July",
+        "Location": "Near flowers",
+        "Time": "8AM - 5PM",
+        "Price": "200"
+    },
+    {
+        "Name": "Ladybug",
+        "Seasons": "Mar - June, Oct",
+        "Location": "Flowers",
+        "Time": "8AM - 5PM",
+        "Price": "200"
+    },
+    {
+        "Name": "Long Locust",
+        "Seasons": "Apr - Nov",
+        "Location": "Ground",
+        "Time": "8AM - 7PM",
+        "Price": "200"
+    },
+    {
+        "Name": "Madagascan Sunset Moth",
+        "Seasons": "Apr - Sept",
+        "Location": "Flying",
+        "Time": "8AM - 4PM",
+        "Price": "2500"
+    },
+    {
+        "Name": "Man-Faced Stink Bug",
+        "Seasons": "Mar - Oct",
+        "Location": "Flowers",
+        "Time": "7PM - 8AM",
+        "Price": "1000"
+    },
+    {
+        "Name": "Mantis",
+        "Seasons": "Mar - Nov",
+        "Location": "Flowers",
+        "Time": "8AM - 5PM",
+        "Price": "430"
+    },
+    {
+        "Name": "Migratory Locust",
+        "Seasons": "Feb - May",
+        "Location": "Ground",
+        "Time": "8AM - 7PM",
+        "Price": "200"
+    },
+    {
+        "Name": "Mole Cricket",
+        "Seasons": "Nov - May",
+        "Location": "Underground",
+        "Time": "All day",
+        "Price": "500"
+    },
+    {
+        "Name": "Monarch Butterfly",
+        "Seasons": "Sept - Nov",
+        "Location": "Flying",
+        "Time": "4AM - 5PM",
+        "Price": "140"
+    },
+    {
+        "Name": "Mosquito",
+        "Seasons": "June - Sept",
+        "Location": "Flying",
+        "Time": "5PM - 4AM",
+        "Price": "130"
+    },
+    {
+        "Name": "Moth",
+        "Seasons": "All year",
+        "Location": "Lit windows",
+        "Time": "7PM - 4AM",
+        "Price": "130"
+    },
+    {
+        "Name": "Orchid Mantis",
+        "Seasons": "Mar - Nov",
+        "Location": "Flowers",
+        "Time": "8AM - 5PM",
+        "Price": "2400"
+    },
+    {
+        "Name": "Paper Kite Butterfly",
+        "Seasons": "All year",
+        "Location": "Flying",
+        "Time": "8AM - 7PM",
+        "Price": "1000"
+    },
+    {
+        "Name": "Peacock Butterfly",
+        "Seasons": "Mar - June",
+        "Location": "Near black, blue, or purple flowers",
+        "Time": "4AM - 7PM",
+        "Price": "2500"
+    },
+    {
+        "Name": "Pill Bug",
+        "Seasons": "Sept - June",
+        "Location": "Hit rocks",
+        "Time": "11PM - 4PM",
+        "Price": "250"
+    },
+    {
+        "Name": "Pondskater",
+        "Seasons": "May - Sept",
+        "Location": "River",
+        "Time": "8AM - 7PM",
+        "Price": "130"
+    },
+    {
+        "Name": "Queen Alexandra’s Birdwing",
+        "Seasons": "May - Sept",
+        "Location": "Flying",
+        "Time": "8AM - 4PM",
+        "Price": "4000"
+    },
+    {
+        "Name": "Rainbow Stag",
+        "Seasons": "June - Sept",
+        "Location": "Tree",
+        "Time": "7PM - 8AM",
+        "Price": "6000"
+    },
+    {
+        "Name": "Rajah Brooke’s Birdwing",
+        "Seasons": "Dec - Feb, Apr - Sept",
+        "Location": "Near black, blue, or purple flowers",
+        "Time": "8AM - 5PM",
+        "Price": "2500"
+    },
+    {
+        "Name": "Red Dragonfly",
+        "Seasons": "Sept - Oct",
+        "Location": "Flying",
+        "Time": "8AM - 7PM",
+        "Price": "180"
+    },
+    {
+        "Name": "Rosalia Batsei Beetle",
+        "Seasons": "May - June",
+        "Location": "Tree stump",
+        "Time": "All day",
+        "Price": "3000"
+    },
+    {
+        "Name": "Scorpion",
+        "Seasons": "May - Oct",
+        "Location": "Ground",
+        "Time": "7PM - 4AM",
+        "Price": "8000"
+    },
+    {
+        "Name": "Snail",
+        "Seasons": "All year",
+        "Location": "Rock (rain)",
+        "Time": "All day",
+        "Price": "250"
+    },
+    {
+        "Name": "Spider",
+        "Seasons": "All year",
+        "Location": "Shake tree",
+        "Time": "7PM - 8AM",
+        "Price": "600"
+    },
+    {
+        "Name": "Stinkbug",
+        "Seasons": "Mar - Oct",
+        "Location": "Flowers",
+        "Time": "All day",
+        "Price": "120"
+    },
+    {
+        "Name": "Tarantula",
+        "Seasons": "Nov - Apr",
+        "Location": "Ground",
+        "Time": "7PM - 4AM",
+        "Price": "8000"
+    },
+    {
+        "Name": "Tiger Beetle",
+        "Seasons": "Feb - Oct",
+        "Location": "Ground",
+        "Time": "All day",
+        "Price": "1500"
+    },
+    {
+        "Name": "Tiger Butterfly",
+        "Seasons": "Mar - Sept",
+        "Location": "Flying",
+        "Time": "4AM - 7PM",
+        "Price": "240"
+    },
+    {
+        "Name": "Violin Beetle",
+        "Seasons":"May - June, Sept - Nov",
+        "Location": "Tree stump",
+        "Time": "All day",
+        "Price": "450"
+    },
+    {
+        "Name": "Walker Cicada",
+        "Seasons": "Aug - Sept",
+        "Location": "Tree",
+        "Time": "8AM - 4PM",
+        "Price": "400"
+    },
+    {
+        "Name": "Walking Leaf",
+        "Seasons": "July - Sept",
+        "Location": "Ground",
+        "Time": "All day",
+        "Price": "600"
+    },
+    {
+        "Name": "Walking Stick",
+        "Seasons": "July - Nov",
+        "Location": "Tree",
+        "Time": "4AM - 8PM, 4PM - 8AM",
+        "Price": "600"
+    },
+    {
+        "Name": "Wasp",
+        "Seasons": "All year",
+        "Location": "Shake tree",
+        "Time": "All day",
+        "Price": "2500"
+    },
+    {
+        "Name": "Wharf Roach",
+        "Seasons": "All year",
+        "Location": "Beach (rocks)",
+        "Time": "All day",
+        "Price": "200"
+    },
+    {
+        "Name": "Yellow Butterfly",
+        "Seasons":"Mar - June, Sept - Oct",
+        "Location": "Flying",
+        "Time": "4AM - 7PM",
+        "Price": "160"
+    }
+]
