@@ -1,6 +1,7 @@
 body {
-    font: 14px "Century Gothic", Futura, sans-serif;
+    font: 14px "Roboto", Futura, sans-serif;
     margin: 20px;
+    background-image: url("./data/paper-texture.jpg");
 }
 
 .card {
@@ -9,4 +10,9 @@ body {
 
 .card-header {
     font-size: 20px;
+}
+
+.time {
+    margin-top: 1rem;
+    font-size: 18px;
 }
