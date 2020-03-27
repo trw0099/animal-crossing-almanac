@@ -186,30 +186,24 @@ class App extends React.Component {
         return (
             <Container>
                 <Row>
-                    <Col md={6}>
-                        <h1>Animal Crossing Almanac</h1>
-                    </Col>
-                    <Col md={6}>
-                        <p className="float-right time">
-                            <b>{this.state.time}</b>
-                        </p>
-                    </Col>
-                </Row>
-                <Row>
                     <Col md="auto" className="mb-3">
                         <ToggleButtonGroup type="radio" name="options" defaultValue={'all'}>
                             <ToggleButton onClick={() => { this.filter("all") }} value={'all'} variant="secondary">All</ToggleButton>
                             <ToggleButton onClick={() => { this.filter("fish") }} value={'fish'} variant="primary"><FontAwesomeIcon icon={faFish} /></ToggleButton>
                             <ToggleButton onClick={() => { this.filter("insect") }} value={'insects'} variant="success"><FontAwesomeIcon icon={faBug} /></ToggleButton>
                         </ToggleButtonGroup>
-
                     </Col>
-                    <Col className="mb-3">
+                    <Col md="auto" className="mb-3">
                         <ToggleButtonGroup type="radio" name="options" defaultValue={'price'}>
                             <ToggleButton onClick={() => { this.sort("price") }} value={'price'} variant="secondary">Price</ToggleButton>
                             <ToggleButton onClick={() => { this.sort("name") }} value={'name'} variant="secondary">Name</ToggleButton>
                             <ToggleButton onClick={() => { this.sort("location") }} value={'location'} variant="secondary">Location</ToggleButton>
                         </ToggleButtonGroup>
+                    </Col>
+                    <Col>
+                        <p className="float-right time">
+                            <b>{this.state.time}</b>
+                        </p>
                     </Col>
                 </Row>
                 <Row>
