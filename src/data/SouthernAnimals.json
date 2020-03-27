@@ -1,0 +1,2763 @@
+[
+  {
+    "Name": "Agris Butterfly",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - Mar",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 5 PM",
+    "Price": 3000,
+    "Type": "bug"
+  },
+  {
+    "Name": "Atlas Moth",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - Mar",
+    "Location": "Tree",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "7 PM - 4 AM",
+    "Price": 3000,
+    "Type": "bug"
+  },
+  {
+    "Name": "Ant",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Rotten fruit or turnips",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 80,
+    "Type": "bug"
+  },
+  {
+    "Name": "Bagworm",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Shake tree",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 600,
+    "Type": "bug"
+  },
+  {
+    "Name": "Centipede",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 12,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - Dec",
+    "Location": "Hit rocks",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 430,
+    "Type": "bug"
+  },
+  {
+    "Name": "Citrus Long-Horned Beetle",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Tree stump",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 350,
+    "Type": "bug"
+  },
+  {
+    "Name": "Common Butterfly",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 12,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - Dec",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "4 AM - 7PM",
+    "Price": 160,
+    "Type": "bug"
+  },
+  {
+    "Name": "Cricket",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - May",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 17,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "5 PM - 8 AM",
+    "Price": 130,
+    "Type": "bug"
+  },
+  {
+    "Name": "Damselfly",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Aug",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 500,
+    "Type": "bug"
+  },
+  {
+    "Name": "Darner Dragonfly",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - Apr",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 5 PM",
+    "Price": 230,
+    "Type": "bug"
+  },
+  {
+    "Name": "Diving Beetle",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - Mar",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 7 PM",
+    "Price": 800,
+    "Type": "bug"
+  },
+  {
+    "Name": "Dung Beetle",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Aug",
+    "Location": "Snowballs",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 2500,
+    "Type": "bug"
+  },
+  {
+    "Name": "Earth-Boring Dung Beetle",
+    "Seasons": [
+      {
+        "Start": 1,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Jan - Mar",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 300,
+    "Type": "bug"
+  },
+  {
+    "Name": "Emperor Butterfly",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      },
+      {
+        "Start": 6,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar, June - Sept",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 17,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "5 PM - 8 AM",
+    "Price": 4000,
+    "Type": "bug"
+  },
+  {
+    "Name": "Flea",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - May",
+    "Location": "On a flea-infested Villager",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 70,
+    "Type": "bug"
+  },
+  {
+    "Name": "Fly",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "On rotten fruit or garbage",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 60,
+    "Type": "bug"
+  },
+  {
+    "Name": "Grasshopper",
+    "Seasons": [
+      {
+        "Start": 1,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Jan - Mar",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 5 PM",
+    "Price": 160,
+    "Type": "bug"
+  },
+  {
+    "Name": "Hermit Crab",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Beach",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "7 PM - 8 AM",
+    "Price": 1000,
+    "Type": "bug"
+  },
+  {
+    "Name": "Honeybee",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 1,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - Jan",
+    "Location": "Near flowers",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 5 PM",
+    "Price": 200,
+    "Type": "bug"
+  },
+  {
+    "Name": "Ladybug",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 4,
+        "All": false
+      },
+      {
+        "Start": 9,
+        "End": 12,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr, Sept - Dec",
+    "Location": "Flowers",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 5 PM",
+    "Price": 200,
+    "Type": "bug"
+  },
+  {
+    "Name": "Long Locust",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - May",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 7 PM",
+    "Price": 200,
+    "Type": "bug"
+  },
+  {
+    "Name": "Madagascan Sunset Moth",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - Mar",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 4 PM",
+    "Price": 2500,
+    "Type": "bug"
+  },
+  {
+    "Name": "Man-Faced Stink Bug",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - Apr",
+    "Location": "Flowers",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "7 PM - 8 AM",
+    "Price": 1000,
+    "Type": "bug"
+  },
+  {
+    "Name": "Mantis",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - Apr",
+    "Location": "Flowers",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 5 PM",
+    "Price": 430,
+    "Type": "bug"
+  },
+  {
+    "Name": "Migratory Locust",
+    "Seasons": [
+      {
+        "Start": 2,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Feb - May",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 7 PM",
+    "Price": 200,
+    "Type": "bug"
+  },
+  {
+    "Name": "Mole Cricket",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Nov",
+    "Location": "Underground",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 500,
+    "Type": "bug"
+  },
+  {
+    "Name": "Monarch Butterfly",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - May",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "4 AM - 5 PM",
+    "Price": 140,
+    "Type": "bug"
+  },
+  {
+    "Name": "Mosquito",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 17,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "5 PM - 4 AM",
+    "Price": 130,
+    "Type": "bug"
+  },
+  {
+    "Name": "Moth",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Lit windows",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "7 PM - 4 AM",
+    "Price": 130,
+    "Type": "bug"
+  },
+  {
+    "Name": "Orchid Mantis",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - May",
+    "Location": "Flowers",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 5 PM",
+    "Price": 2400,
+    "Type": "bug"
+  },
+  {
+    "Name": "Paper Kite Butterfly",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 7 PM",
+    "Price": 1000,
+    "Type": "bug"
+  },
+  {
+    "Name": "Peacock Butterfly",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 12,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - Dec",
+    "Location": "Near black, blue, or purple flowers",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "4 AM - 7 PM",
+    "Price": 2500,
+    "Type": "bug"
+  },
+  {
+    "Name": "Pill Bug",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 12,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - Dec",
+    "Location": "Hit rocks",
+    "Times": [
+      {
+        "Start": 23,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "11 PM - 4 PM",
+    "Price": 250,
+    "Type": "bug"
+  },
+  {
+    "Name": "Pondskater",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - Mar",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 7 PM",
+    "Price": 130,
+    "Type": "bug"
+  },
+  {
+    "Name": "Queen Alexandra’s Birdwing",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - Mar",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 4 PM",
+    "Price": 4000,
+    "Type": "bug"
+  },
+  {
+    "Name": "Rainbow Stag",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "Tree",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "7 PM - 8 AM",
+    "Price": 6000,
+    "Type": "bug"
+  },
+  {
+    "Name": "Rajah Brooke’s Birdwing",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 8,
+        "All": false
+      },
+      {
+        "Start": 10,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Aug, Oct - Mar",
+    "Location": "Near black, blue, or purple flowers",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 17,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 5 PM",
+    "Price": 2500,
+    "Type": "bug"
+  },
+  {
+    "Name": "Red Dragonfly",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - Apr",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 7 PM",
+    "Price": 180,
+    "Type": "bug"
+  },
+  {
+    "Name": "Rosalia Batsei Beetle",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 12,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - Dec",
+    "Location": "Tree stump",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 3000,
+    "Type": "bug"
+  },
+  {
+    "Name": "Scorpion",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - Apr",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "7 PM - 4 AM",
+    "Price": 8000,
+    "Type": "bug"
+  },
+  {
+    "Name": "Snail",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Rock (rain)",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 250,
+    "Type": "bug"
+  },
+  {
+    "Name": "Spider",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Shake tree",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "7 PM - 8 AM",
+    "Price": 600,
+    "Type": "bug"
+  },
+  {
+    "Name": "Stinkbug",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - Apr",
+    "Location": "Flowers",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 120,
+    "Type": "bug"
+  },
+  {
+    "Name": "Tarantula",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Oct",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 19,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "7 PM - 4 AM",
+    "Price": 8000,
+    "Type": "bug"
+  },
+  {
+    "Name": "Tiger Beetle",
+    "Seasons": [
+      {
+        "Start": 8,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Aug - Apr",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 1500,
+    "Type": "bug"
+  },
+  {
+    "Name": "Tiger Butterfly",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - Mar",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "4 AM - 7 PM",
+    "Price": 240,
+    "Type": "bug"
+  },
+  {
+    "Name": "Violin Beetle",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 5,
+        "All": false
+      },
+      {
+        "Start": 11,
+        "End": 12,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - May, Nov - Dec",
+    "Location": "Tree stump",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 450,
+    "Type": "bug"
+  },
+  {
+    "Name": "Walker Cicada",
+    "Seasons": [
+      {
+        "Start": 2,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Feb - Mar",
+    "Location": "Tree",
+    "Times": [
+      {
+        "Start": 8,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "8 AM - 4 PM",
+    "Price": 400,
+    "Type": "bug"
+  },
+  {
+    "Name": "Walking Leaf",
+    "Seasons": [
+      {
+        "Start": 1,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Jan - Mar",
+    "Location": "Ground",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 600,
+    "Type": "bug"
+  },
+  {
+    "Name": "Walking Stick",
+    "Seasons": [
+      {
+        "Start": 1,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Jan - May",
+    "Location": "Tree",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 20,
+        "All": false
+      },
+      {
+        "Start": 16,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "TimesString": "4 AM - 8 PM, 4 PM - 8 AM",
+    "Price": 600,
+    "Type": "bug"
+  },
+  {
+    "Name": "Wasp",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Shake Tree",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 2500,
+    "Type": "bug"
+  },
+  {
+    "Name": "Wharf Roach",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Beach (rocks)",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 200,
+    "Type": "bug"
+  },
+  {
+    "Name": "Yellow Butterfly",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 4,
+        "All": false
+      },
+      {
+        "Start": 9,
+        "End": 12,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - Apr, Sept - Dec",
+    "Location": "Flying",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 19,
+        "All": false
+      }
+    ],
+    "TimesString": "4 AM - 7 PM",
+    "Price": 160,
+    "Type": "bug"
+  },
+  {
+    "Name": "Anchovy",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 21,
+        "All": false
+      }
+    ],
+    "TimesString": "4 AM - 9 PM",
+    "Price": 200,
+    "Type": "fish"
+  },
+  {
+    "Name": "Angelfish",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - Apr",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 3000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Arapaima",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 8000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Arowana",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 10000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Barred Knifejaw",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - May",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 5000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Barreleye",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 21,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "9 PM - 4 AM",
+    "Price": 15000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Betta",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - Apr",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 9,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "9 AM - 4 PM",
+    "Price": 2500,
+    "Type": "fish"
+  },
+  {
+    "Name": "Bitterling",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Sept",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 900,
+    "Type": "fish"
+  },
+  {
+    "Name": "Black Bass",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 400,
+    "Type": "fish"
+  },
+  {
+    "Name": "Blowfish",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Aug",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 21,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "9 PM - 4 AM",
+    "Price": 5000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Blue Marlin",
+    "Seasons": [
+      {
+        "Start": 1,
+        "End": 3,
+        "All": false
+      },
+      {
+        "Start": 5,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Jan - Mar, May - Oct",
+    "Location": "Pier",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 10000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Bluegill",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 9,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "9 AM - 4 PM",
+    "Price": 180,
+    "Type": "fish"
+  },
+  {
+    "Name": "Carp",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 300,
+    "Type": "fish"
+  },
+  {
+    "Name": "Catfish",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - Apr",
+    "Location": "Pond",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 800,
+    "Type": "fish"
+  },
+  {
+    "Name": "Char",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 5,
+        "All": false
+      },
+      {
+        "Start": 9,
+        "End": 12,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - May, Sept - Dec",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 3800,
+    "Type": "fish"
+  },
+  {
+    "Name": "Cherry Salmon",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 5,
+        "All": false
+      },
+      {
+        "Start": 9,
+        "End": 12,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - May, Sept - Dec",
+    "Location": "River (Clifftop)",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 1000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Clownfish",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - Mar",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 650,
+    "Type": "fish"
+  },
+  {
+    "Name": "Coelacanth",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Ocean (Rain)",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 15000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Crawfish",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - Mar",
+    "Location": "Pond",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 200,
+    "Type": "fish"
+  },
+  {
+    "Name": "Crucian Carp",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 160,
+    "Type": "fish"
+  },
+  {
+    "Name": "Dab",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr - Oct",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 300,
+    "Type": "fish"
+  },
+  {
+    "Name": "Dace",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 240,
+    "Type": "fish"
+  },
+  {
+    "Name": "Dorado",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 21,
+        "All": false
+      }
+    ],
+    "TimesString": "4 AM - 9 PM",
+    "Price": 12000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Football Fish",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Sept",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 2500,
+    "Type": "fish"
+  },
+  {
+    "Name": "Freshwater Goby",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 400,
+    "Type": "fish"
+  },
+  {
+    "Name": "Gar",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "Pond",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 4800,
+    "Type": "fish"
+  },
+  {
+    "Name": "Golden Trout",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 5,
+        "All": false
+      },
+      {
+        "Start": 9,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - May, Sept - Nov",
+    "Location": "River (Clifftop)",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 15000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Goldfish",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Pond",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 1300,
+    "Type": "fish"
+  },
+  {
+    "Name": "Great White Shark",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 15000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Guppy",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - May",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 9,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "9 AM - 4 PM",
+    "Price": 1300,
+    "Type": "fish"
+  },
+  {
+    "Name": "Hammerhead Shark",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 8000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Horse Mackerel",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 150,
+    "Type": "fish"
+  },
+  {
+    "Name": "King Salmon",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar",
+    "Location": "River (Mouth)",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 1800,
+    "Type": "fish"
+  },
+  {
+    "Name": "Koi",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Pond",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 4000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Loach",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - Nov",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 400,
+    "Type": "fish"
+  },
+  {
+    "Name": "Mitten Crab",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - May",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 2000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Moray Eel",
+    "Seasons": [
+      {
+        "Start": 2,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Feb - Apr",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 2000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Neon Tetra",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - May",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "4 AM - 4 PM",
+    "Price": 500,
+    "Type": "fish"
+  },
+  {
+    "Name": "Oarfish",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Nov",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 9000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Ocean Sunfish",
+    "Seasons": [
+      {
+        "Start": 1,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Jan - Mar",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 21,
+        "All": false
+      }
+    ],
+    "TimesString": "4 AM - 9 PM",
+    "Price": 4000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Olive Flounder",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 800,
+    "Type": "fish"
+  },
+  {
+    "Name": "Pale Chub",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 9,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "9 AM - 4 PM",
+    "Price": 200,
+    "Type": "fish"
+  },
+  {
+    "Name": "Pike",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 6,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - June",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 1800,
+    "Type": "fish"
+  },
+  {
+    "Name": "Piranha",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 9,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "9 AM - 4 PM4 AM - 9 PM",
+    "Price": 2500,
+    "Type": "fish"
+  },
+  {
+    "Name": "Pond Smelt",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Aug",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 320,
+    "Type": "fish"
+  },
+  {
+    "Name": "Pop-eyed Goldfish",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Pond",
+    "Times": [
+      {
+        "Start": 9,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "9AM - 4PM",
+    "Price": 1300,
+    "Type": "fish"
+  },
+  {
+    "Name": "Puffer Fish",
+    "Seasons": [
+      {
+        "Start": 1,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Jan - Mar",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 250,
+    "Type": "fish"
+  },
+  {
+    "Name": "Rainbowfish",
+    "Seasons": [
+      {
+        "Start": 11,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Nov - Apr",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 9,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "9 AM - 4 PM",
+    "Price": 800,
+    "Type": "fish"
+  },
+  {
+    "Name": "Ranchu Goldfish",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Pond",
+    "Times": [
+      {
+        "Start": 9,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "9 AM - 4 PM",
+    "Price": 4500,
+    "Type": "fish"
+  },
+  {
+    "Name": "Ray",
+    "Seasons": [
+      {
+        "Start": 2,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Feb - May",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 21,
+        "All": false
+      }
+    ],
+    "TimesString": "4 AM - 9 PM",
+    "Price": 3000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Red Snapper",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 3000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Ribbon Eel",
+    "Seasons": [
+      {
+        "Start": 1,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Jan - Apr",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 600,
+    "Type": "fish"
+  },
+  {
+    "Name": "Salmon",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar",
+    "Location": "River (Mouth)",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 700,
+    "Type": "fish"
+  },
+  {
+    "Name": "Saw Shark",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 12000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Sea Bass",
+    "Seasons": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "SeasonsString": "All year",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 400,
+    "Type": "fish"
+  },
+  {
+    "Name": "Sea Butterfly",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Sept",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 1000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Seahorse",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 5,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - May",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 1100,
+    "Type": "fish"
+  },
+  {
+    "Name": "Soft-shelled Turtle",
+    "Seasons": [
+      {
+        "Start": 2,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Feb - Mar",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 3750,
+    "Type": "fish"
+  },
+  {
+    "Name": "Squid",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 2,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Feb",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 500,
+    "Type": "fish"
+  },
+  {
+    "Name": "Stringfish",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Sept",
+    "Location": "River (Clifftop)",
+    "Times": [
+      {
+        "Start": 16,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "TimesString": "4 PM - 9 AM",
+    "Price": 15000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Sturgeon",
+    "Seasons": [
+      {
+        "Start": 3,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Mar - Sept",
+    "Location": "River (Mouth)",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 10000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Suckerfish",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 1500,
+    "Type": "fish"
+  },
+  {
+    "Name": "Surgeonfish",
+    "Seasons": [
+      {
+        "Start": 10,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Oct - Mar",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 1000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Sweetfish",
+    "Seasons": [
+      {
+        "Start": 1,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Jan - Mar",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 900,
+    "Type": "fish"
+  },
+  {
+    "Name": "Tadpole",
+    "Seasons": [
+      {
+        "Start": 9,
+        "End": 1,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Sept - Jan",
+    "Location": "Pond",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 100,
+    "Type": "fish"
+  },
+  {
+    "Name": "Tilapia",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Apr",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 800,
+    "Type": "fish"
+  },
+  {
+    "Name": "Tuna",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Oct",
+    "Location": "Pier",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 7000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Whale Shark",
+    "Seasons": [
+      {
+        "Start": 12,
+        "End": 3,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Dec - Mar",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 13000,
+    "Type": "fish"
+  },
+  {
+    "Name": "Yellow Perch",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr - Sept",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 300,
+    "Type": "fish"
+  },
+  {
+    "Name": "Zebra Turkeyfish",
+    "Seasons": [
+      {
+        "Start": 1,
+        "End": 5,
+        "All": false
+      },
+      {
+        "Start": 10,
+        "End": 11,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Jan - May, Oct - Nov",
+    "Location": "Ocean",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 500,
+    "Type": "fish"
+  }
+]
