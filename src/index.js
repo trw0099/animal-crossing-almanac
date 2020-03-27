@@ -84,8 +84,8 @@ class AnimalList extends React.Component {
             <Row>
                 {
                     this.props.animalList
-                        .map((fish, i) => {
-                            return this.checkTime(fish) ? this.renderAnimal(i) : '';
+                        .map((animal, i) => {
+                            return this.checkTime(animal) || this.props.show === "all" ? this.renderAnimal(i) : '';
                         })
                 }
             </Row>
@@ -104,7 +104,8 @@ class App extends React.Component {
             animalList: NorthAnimals,
             filter: "all",
             sort: "price",
-            hemisphere: "north"
+            hemisphere: "north",
+            show: "now"
         };
     }
 
@@ -193,28 +194,40 @@ class App extends React.Component {
         this.updateList(this.state.filter, this.state.sort);
     }
 
+    show(option){
+        this.setState({
+            show: option
+        })
+    }
+
     render() {
         return (
             <Container>
                 <Row>
                     <Col md="auto" className="mb-3">
                         <ToggleButtonGroup type="radio" name="animalType" defaultValue={'all'}>
-                            <ToggleButton onClick={() => { this.filter("all") }} value={'all'} variant="secondary">All</ToggleButton>
-                            <ToggleButton onClick={() => { this.filter("fish") }} value={'fish'} variant="primary"><FontAwesomeIcon icon={faFish} /></ToggleButton>
-                            <ToggleButton onClick={() => { this.filter("bug") }} value={'bug'} variant="success"><FontAwesomeIcon icon={faBug} /></ToggleButton>
+                            <ToggleButton onClick={() => { this.filter("all") }} value={'all'} variant="secondary" title="Show all animals">All</ToggleButton>
+                            <ToggleButton onClick={() => { this.filter("fish") }} value={'fish'} variant="primary" title="Show only fish"><FontAwesomeIcon icon={faFish} /></ToggleButton>
+                            <ToggleButton onClick={() => { this.filter("bug") }} value={'bug'} variant="success" title="Show only bugs"><FontAwesomeIcon icon={faBug} /></ToggleButton>
                         </ToggleButtonGroup>
                     </Col>
                     <Col md="auto" className="mb-3">
                         <ToggleButtonGroup type="radio" name="sortType" defaultValue={'price'}>
-                            <ToggleButton onClick={() => { this.sort("price") }} value={'price'} variant="secondary">Price</ToggleButton>
-                            <ToggleButton onClick={() => { this.sort("name") }} value={'name'} variant="secondary">Name</ToggleButton>
-                            <ToggleButton onClick={() => { this.sort("location") }} value={'location'} variant="secondary">Location</ToggleButton>
+                            <ToggleButton onClick={() => { this.sort("price") }} value={'price'} variant="secondary" title="Sort by price">Price</ToggleButton>
+                            <ToggleButton onClick={() => { this.sort("name") }} value={'name'} variant="secondary" title="Sort by name">Name</ToggleButton>
+                            <ToggleButton onClick={() => { this.sort("location") }} value={'location'} variant="secondary" title="Sort by location">Location</ToggleButton>
                         </ToggleButtonGroup>
                     </Col>
                     <Col md="auto" className="mb-3">
                         <ToggleButtonGroup type="radio" name="listType" defaultValue={'north'}>
-                            <ToggleButton onClick={() => { this.setHemisphere("north") }} value={'north'} variant="secondary">North</ToggleButton>
-                            <ToggleButton onClick={() => { this.setHemisphere("south") }} value={'south'} variant="secondary">South</ToggleButton>
+                            <ToggleButton onClick={() => { this.setHemisphere("north") }} value={'north'} variant="secondary" title="Northern hemisphere">North</ToggleButton>
+                            <ToggleButton onClick={() => { this.setHemisphere("south") }} value={'south'} variant="secondary" title="Southern hemisphere">South</ToggleButton>
+                        </ToggleButtonGroup>
+                    </Col>
+                    <Col md="auto" className="mb-3">
+                        <ToggleButtonGroup type="radio" name="show" defaultValue={'now'}>
+                            <ToggleButton onClick={() => { this.show("now") }} value={'now'} variant="secondary" title="Show animals available now">Now</ToggleButton>
+                            <ToggleButton onClick={() => { this.show("all") }} value={'all'} variant="secondary" title="Show all animals">All</ToggleButton>
                         </ToggleButtonGroup>
                     </Col>
                     <Col>
@@ -228,7 +241,7 @@ class App extends React.Component {
 
                     </Col>
                 </Row>
-                <AnimalList month={this.state.month} hour={this.state.hour} animalList={this.state.animalList} />
+                <AnimalList month={this.state.month} hour={this.state.hour} show={this.state.show} animalList={this.state.animalList} />
             </Container>
         );
     }
