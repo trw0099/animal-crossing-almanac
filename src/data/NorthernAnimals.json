@@ -19,7 +19,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 3000,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Atlas Moth",
@@ -41,7 +41,7 @@
     ],
     "TimesString": "7PM - 4AM",
     "Price": 3000,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Ant",
@@ -63,7 +63,7 @@
     ],
     "TimesString": "All day",
     "Price": 80,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Bagworm",
@@ -85,7 +85,7 @@
     ],
     "TimesString": "All day",
     "Price": 600,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Centipede",
@@ -107,7 +107,7 @@
     ],
     "TimesString": "5PM - 11PM",
     "Price": 430,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Citrus Long-Horned Beetle",
@@ -129,7 +129,7 @@
     ],
     "TimesString": "All day",
     "Price": 350,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Common Butterfly",
@@ -151,7 +151,7 @@
     ],
     "TimesString": "4AM - 7PM",
     "Price": 160,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Cricket",
@@ -173,7 +173,7 @@
     ],
     "TimesString": "5PM - 8AM",
     "Price": 130,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Damselfly",
@@ -195,7 +195,7 @@
     ],
     "TimesString": "All day",
     "Price": 500,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Darner Dragonfly",
@@ -217,7 +217,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 230,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Diving Beetle",
@@ -239,7 +239,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 800,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Dung Beetle",
@@ -261,7 +261,7 @@
     ],
     "TimesString": "All day",
     "Price": 2500,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Earth-Boring Dung Beetle",
@@ -283,7 +283,7 @@
     ],
     "TimesString": "All day",
     "Price": 300,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Emperor Butterfly",
@@ -310,7 +310,7 @@
     ],
     "TimesString": "5PM - 8AM",
     "Price": 4000,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Flea",
@@ -332,7 +332,7 @@
     ],
     "TimesString": "All day",
     "Price": 70,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Fly",
@@ -354,7 +354,7 @@
     ],
     "TimesString": "All day",
     "Price": 60,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Grasshopper",
@@ -376,7 +376,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 160,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Hermit Crab",
@@ -398,7 +398,7 @@
     ],
     "TimesString": "7PM - 8AM",
     "Price": 1000,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Honeybee",
@@ -420,7 +420,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 200,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Ladybug",
@@ -447,7 +447,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 200,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Long Locust",
@@ -469,7 +469,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 200,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Madagascan Sunset Moth",
@@ -491,7 +491,7 @@
     ],
     "TimesString": "8AM - 4PM",
     "Price": 2500,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Man-Faced Stink Bug",
@@ -513,7 +513,7 @@
     ],
     "TimesString": "7PM - 8AM",
     "Price": 1000,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Mantis",
@@ -535,7 +535,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 430,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Migratory Locust",
@@ -557,7 +557,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 200,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Mole Cricket",
@@ -579,7 +579,7 @@
     ],
     "TimesString": "All day",
     "Price": 500,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Monarch Butterfly",
@@ -601,7 +601,7 @@
     ],
     "TimesString": "4AM - 5PM",
     "Price": 140,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Mosquito",
@@ -623,7 +623,7 @@
     ],
     "TimesString": "5PM - 4AM",
     "Price": 130,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Moth",
@@ -645,7 +645,7 @@
     ],
     "TimesString": "7PM - 4AM",
     "Price": 130,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Orchid Mantis",
@@ -667,7 +667,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 2400,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Paper Kite Butterfly",
@@ -689,7 +689,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 1000,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Peacock Butterfly",
@@ -711,7 +711,7 @@
     ],
     "TimesString": "4AM - 7PM",
     "Price": 2500,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Pill Bug",
@@ -733,7 +733,7 @@
     ],
     "TimesString": "11PM - 4PM",
     "Price": 250,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Pondskater",
@@ -755,7 +755,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 130,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Queen Alexandra’s Birdwing",
@@ -777,7 +777,7 @@
     ],
     "TimesString": "8AM - 4PM",
     "Price": 4000,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Rainbow Stag",
@@ -799,7 +799,7 @@
     ],
     "TimesString": "7PM - 8AM",
     "Price": 6000,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Rajah Brooke’s Birdwing",
@@ -826,7 +826,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 2500,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Red Dragonfly",
@@ -848,7 +848,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 180,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Rosalia Batsei Beetle",
@@ -870,7 +870,7 @@
     ],
     "TimesString": "All day",
     "Price": 3000,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Scorpion",
@@ -892,7 +892,7 @@
     ],
     "TimesString": "7PM - 4AM",
     "Price": 8000,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Snail",
@@ -914,7 +914,7 @@
     ],
     "TimesString": "All day",
     "Price": 250,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Spider",
@@ -936,7 +936,7 @@
     ],
     "TimesString": "7PM - 8AM",
     "Price": 600,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Stinkbug",
@@ -958,7 +958,7 @@
     ],
     "TimesString": "All day",
     "Price": 120,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Tarantula",
@@ -980,7 +980,7 @@
     ],
     "TimesString": "7PM - 4AM",
     "Price": 8000,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Tiger Beetle",
@@ -1002,7 +1002,7 @@
     ],
     "TimesString": "All day",
     "Price": 1500,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Tiger Butterfly",
@@ -1024,7 +1024,7 @@
     ],
     "TimesString": "4AM - 7PM",
     "Price": 240,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Violin Beetle",
@@ -1051,7 +1051,7 @@
     ],
     "TimesString": "All day",
     "Price": 450,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Walker Cicada",
@@ -1073,7 +1073,7 @@
     ],
     "TimesString": "8AM - 4PM",
     "Price": 400,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Walking Leaf",
@@ -1095,7 +1095,7 @@
     ],
     "TimesString": "All day",
     "Price": 600,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Walking Stick",
@@ -1122,7 +1122,7 @@
     ],
     "TimesString": "4AM - 8PM, 4PM - 8AM",
     "Price": 600,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Wasp",
@@ -1144,7 +1144,7 @@
     ],
     "TimesString": "All day",
     "Price": 2500,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Wharf Roach",
@@ -1166,7 +1166,7 @@
     ],
     "TimesString": "All day",
     "Price": 200,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Yellow Butterfly",
@@ -1193,7 +1193,7 @@
     ],
     "TimesString": "4AM - 7PM",
     "Price": 160,
-    "Type": "insect"
+    "Type": "bug"
   },
   {
     "Name": "Anchovy",
