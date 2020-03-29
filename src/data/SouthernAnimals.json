@@ -17,9 +17,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 5 PM",
+    "TimesString": "8AM - 5PM",
     "Price": 3000,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Atlas Moth",
@@ -39,9 +40,10 @@
         "All": false
       }
     ],
-    "TimesString": "7 PM - 4 AM",
+    "TimesString": "7PM - 4AM",
     "Price": 3000,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Ant",
@@ -63,7 +65,8 @@
     ],
     "TimesString": "All day",
     "Price": 80,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Bagworm",
@@ -85,7 +88,8 @@
     ],
     "TimesString": "All day",
     "Price": 600,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Centipede",
@@ -107,7 +111,8 @@
     ],
     "TimesString": "All day",
     "Price": 430,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Citrus Long-Horned Beetle",
@@ -129,7 +134,8 @@
     ],
     "TimesString": "All day",
     "Price": 350,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Common Butterfly",
@@ -149,9 +155,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 AM - 7PM",
+    "TimesString": "4AM - 7PM",
     "Price": 160,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Cricket",
@@ -171,9 +178,10 @@
         "All": false
       }
     ],
-    "TimesString": "5 PM - 8 AM",
+    "TimesString": "5PM - 8AM",
     "Price": 130,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Damselfly",
@@ -195,7 +203,8 @@
     ],
     "TimesString": "All day",
     "Price": 500,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Darner Dragonfly",
@@ -215,9 +224,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 5 PM",
+    "TimesString": "8AM - 5PM",
     "Price": 230,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Diving Beetle",
@@ -237,9 +247,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 7 PM",
+    "TimesString": "8AM - 7PM",
     "Price": 800,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Dung Beetle",
@@ -261,7 +272,8 @@
     ],
     "TimesString": "All day",
     "Price": 2500,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Earth-Boring Dung Beetle",
@@ -283,7 +295,8 @@
     ],
     "TimesString": "All day",
     "Price": 300,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Emperor Butterfly",
@@ -308,9 +321,10 @@
         "All": false
       }
     ],
-    "TimesString": "5 PM - 8 AM",
+    "TimesString": "5PM - 8AM",
     "Price": 4000,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Flea",
@@ -332,7 +346,8 @@
     ],
     "TimesString": "All day",
     "Price": 70,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Fly",
@@ -354,7 +369,8 @@
     ],
     "TimesString": "All day",
     "Price": 60,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Grasshopper",
@@ -374,9 +390,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 5 PM",
+    "TimesString": "8AM - 5PM",
     "Price": 160,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Hermit Crab",
@@ -396,9 +413,10 @@
         "All": false
       }
     ],
-    "TimesString": "7 PM - 8 AM",
+    "TimesString": "7PM - 8AM",
     "Price": 1000,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Honeybee",
@@ -418,9 +436,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 5 PM",
+    "TimesString": "8AM - 5PM",
     "Price": 200,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Ladybug",
@@ -445,9 +464,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 5 PM",
+    "TimesString": "8AM - 5PM",
     "Price": 200,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Long Locust",
@@ -467,9 +487,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 7 PM",
+    "TimesString": "8AM - 7PM",
     "Price": 200,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Madagascan Sunset Moth",
@@ -489,9 +510,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 4 PM",
+    "TimesString": "8AM - 4PM",
     "Price": 2500,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Man-Faced Stink Bug",
@@ -511,9 +533,10 @@
         "All": false
       }
     ],
-    "TimesString": "7 PM - 8 AM",
+    "TimesString": "7PM - 8AM",
     "Price": 1000,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Mantis",
@@ -533,9 +556,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 5 PM",
+    "TimesString": "8AM - 5PM",
     "Price": 430,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Migratory Locust",
@@ -555,9 +579,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 7 PM",
+    "TimesString": "8AM - 7PM",
     "Price": 200,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Mole Cricket",
@@ -579,7 +604,8 @@
     ],
     "TimesString": "All day",
     "Price": 500,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Monarch Butterfly",
@@ -599,9 +625,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 AM - 5 PM",
+    "TimesString": "4AM - 5PM",
     "Price": 140,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Mosquito",
@@ -621,9 +648,10 @@
         "All": false
       }
     ],
-    "TimesString": "5 PM - 4 AM",
+    "TimesString": "5PM - 4AM",
     "Price": 130,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Moth",
@@ -643,9 +671,10 @@
         "All": false
       }
     ],
-    "TimesString": "7 PM - 4 AM",
+    "TimesString": "7PM - 4AM",
     "Price": 130,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Orchid Mantis",
@@ -665,9 +694,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 5 PM",
+    "TimesString": "8AM - 5PM",
     "Price": 2400,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Paper Kite Butterfly",
@@ -687,9 +717,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 7 PM",
+    "TimesString": "8AM - 7PM",
     "Price": 1000,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Peacock Butterfly",
@@ -709,9 +740,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 AM - 7 PM",
+    "TimesString": "4AM - 7PM",
     "Price": 2500,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Pill Bug",
@@ -731,9 +763,10 @@
         "All": false
       }
     ],
-    "TimesString": "11 PM - 4 PM",
+    "TimesString": "11PM - 4PM",
     "Price": 250,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Pondskater",
@@ -753,9 +786,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 7 PM",
+    "TimesString": "8AM - 7PM",
     "Price": 130,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Queen Alexandra’s Birdwing",
@@ -775,9 +809,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 4 PM",
+    "TimesString": "8AM - 4PM",
     "Price": 4000,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Rainbow Stag",
@@ -797,9 +832,10 @@
         "All": false
       }
     ],
-    "TimesString": "7 PM - 8 AM",
+    "TimesString": "7PM - 8AM",
     "Price": 6000,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Rajah Brooke’s Birdwing",
@@ -824,9 +860,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 5 PM",
+    "TimesString": "8AM - 5PM",
     "Price": 2500,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Red Dragonfly",
@@ -846,9 +883,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 7 PM",
+    "TimesString": "8AM - 7PM",
     "Price": 180,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Rosalia Batsei Beetle",
@@ -870,7 +908,8 @@
     ],
     "TimesString": "All day",
     "Price": 3000,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Scorpion",
@@ -890,9 +929,10 @@
         "All": false
       }
     ],
-    "TimesString": "7 PM - 4 AM",
+    "TimesString": "7PM - 4AM",
     "Price": 8000,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Snail",
@@ -914,7 +954,8 @@
     ],
     "TimesString": "All day",
     "Price": 250,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Spider",
@@ -934,9 +975,10 @@
         "All": false
       }
     ],
-    "TimesString": "7 PM - 8 AM",
+    "TimesString": "7PM - 8AM",
     "Price": 600,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Stinkbug",
@@ -958,7 +1000,8 @@
     ],
     "TimesString": "All day",
     "Price": 120,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Tarantula",
@@ -978,9 +1021,10 @@
         "All": false
       }
     ],
-    "TimesString": "7 PM - 4 AM",
+    "TimesString": "7PM - 4AM",
     "Price": 8000,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Tiger Beetle",
@@ -1002,7 +1046,8 @@
     ],
     "TimesString": "All day",
     "Price": 1500,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Tiger Butterfly",
@@ -1022,9 +1067,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 AM - 7 PM",
+    "TimesString": "4AM - 7PM",
     "Price": 240,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Violin Beetle",
@@ -1051,7 +1097,8 @@
     ],
     "TimesString": "All day",
     "Price": 450,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Walker Cicada",
@@ -1071,9 +1118,10 @@
         "All": false
       }
     ],
-    "TimesString": "8 AM - 4 PM",
+    "TimesString": "8AM - 4PM",
     "Price": 400,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Walking Leaf",
@@ -1095,7 +1143,8 @@
     ],
     "TimesString": "All day",
     "Price": 600,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Walking Stick",
@@ -1120,9 +1169,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 AM - 8 PM, 4 PM - 8 AM",
+    "TimesString": "4AM - 8PM, 4PM - 8AM",
     "Price": 600,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Wasp",
@@ -1144,7 +1194,8 @@
     ],
     "TimesString": "All day",
     "Price": 2500,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Wharf Roach",
@@ -1166,7 +1217,8 @@
     ],
     "TimesString": "All day",
     "Price": 200,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Yellow Butterfly",
@@ -1191,9 +1243,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 AM - 7 PM",
+    "TimesString": "4AM - 7PM",
     "Price": 160,
-    "Type": "bug"
+    "Type": "bug",
+    "Size": null
   },
   {
     "Name": "Anchovy",
@@ -1213,9 +1266,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 AM - 9 PM",
+    "TimesString": "4AM - 9PM",
     "Price": 200,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Angelfish",
@@ -1235,9 +1289,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 3000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Arapaima",
@@ -1257,9 +1312,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 8000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL"
   },
   {
     "Name": "Arowana",
@@ -1279,9 +1335,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 10000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XL"
   },
   {
     "Name": "Barred Knifejaw",
@@ -1303,7 +1360,8 @@
     ],
     "TimesString": "All day",
     "Price": 5000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Barreleye",
@@ -1323,9 +1381,10 @@
         "All": false
       }
     ],
-    "TimesString": "9 PM - 4 AM",
+    "TimesString": "9PM - 4AM",
     "Price": 15000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Betta",
@@ -1345,9 +1404,10 @@
         "All": false
       }
     ],
-    "TimesString": "9 AM - 4 PM",
+    "TimesString": "9AM - 4PM",
     "Price": 2500,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Bitterling",
@@ -1369,7 +1429,8 @@
     ],
     "TimesString": "All day",
     "Price": 900,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XS"
   },
   {
     "Name": "Black Bass",
@@ -1391,7 +1452,8 @@
     ],
     "TimesString": "All day",
     "Price": 400,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XL"
   },
   {
     "Name": "Blowfish",
@@ -1411,9 +1473,10 @@
         "All": false
       }
     ],
-    "TimesString": "9 PM - 4 AM",
+    "TimesString": "9PM - 4AM",
     "Price": 5000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Blue Marlin",
@@ -1440,7 +1503,8 @@
     ],
     "TimesString": "All day",
     "Price": 10000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL"
   },
   {
     "Name": "Bluegill",
@@ -1460,9 +1524,10 @@
         "All": false
       }
     ],
-    "TimesString": "9 AM - 4 PM",
+    "TimesString": "9AM - 4PM",
     "Price": 180,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Carp",
@@ -1484,7 +1549,8 @@
     ],
     "TimesString": "All day",
     "Price": 300,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XL"
   },
   {
     "Name": "Catfish",
@@ -1504,9 +1570,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 800,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XL"
   },
   {
     "Name": "Char",
@@ -1531,9 +1598,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 3800,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Cherry Salmon",
@@ -1560,7 +1628,8 @@
     ],
     "TimesString": "All day",
     "Price": 1000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Clownfish",
@@ -1582,7 +1651,8 @@
     ],
     "TimesString": "All day",
     "Price": 650,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XS"
   },
   {
     "Name": "Coelacanth",
@@ -1604,7 +1674,8 @@
     ],
     "TimesString": "All day",
     "Price": 15000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL"
   },
   {
     "Name": "Crawfish",
@@ -1626,7 +1697,8 @@
     ],
     "TimesString": "All day",
     "Price": 200,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Crucian Carp",
@@ -1648,7 +1720,8 @@
     ],
     "TimesString": "All day",
     "Price": 160,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Dab",
@@ -1670,7 +1743,8 @@
     ],
     "TimesString": "All day",
     "Price": 300,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Dace",
@@ -1690,9 +1764,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 240,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Dorado",
@@ -1712,9 +1787,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 AM - 9 PM",
+    "TimesString": "4AM - 9PM",
     "Price": 12000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "L"
   },
   {
     "Name": "Football Fish",
@@ -1734,9 +1810,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 2500,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XL"
   },
   {
     "Name": "Freshwater Goby",
@@ -1756,9 +1833,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 400,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Gar",
@@ -1778,9 +1856,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 4800,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL"
   },
   {
     "Name": "Golden Trout",
@@ -1805,9 +1884,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 15000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Goldfish",
@@ -1829,7 +1909,8 @@
     ],
     "TimesString": "All day",
     "Price": 1300,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XS"
   },
   {
     "Name": "Great White Shark",
@@ -1849,9 +1930,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 15000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL (Fin)"
   },
   {
     "Name": "Guppy",
@@ -1871,9 +1953,10 @@
         "All": false
       }
     ],
-    "TimesString": "9 AM - 4 PM",
+    "TimesString": "9AM - 4PM",
     "Price": 1300,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XS"
   },
   {
     "Name": "Hammerhead Shark",
@@ -1893,9 +1976,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 8000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL (Fin)"
   },
   {
     "Name": "Horse Mackerel",
@@ -1917,7 +2001,8 @@
     ],
     "TimesString": "All day",
     "Price": 150,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "King Salmon",
@@ -1939,7 +2024,8 @@
     ],
     "TimesString": "All day",
     "Price": 1800,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL"
   },
   {
     "Name": "Koi",
@@ -1959,9 +2045,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 4000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XL"
   },
   {
     "Name": "Loach",
@@ -1983,7 +2070,8 @@
     ],
     "TimesString": "All day",
     "Price": 400,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Mitten Crab",
@@ -2003,9 +2091,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 2000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Moray Eel",
@@ -2027,7 +2116,8 @@
     ],
     "TimesString": "All day",
     "Price": 2000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Narrow"
   },
   {
     "Name": "Neon Tetra",
@@ -2047,9 +2137,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 AM - 4 PM",
+    "TimesString": "4AM - 4PM",
     "Price": 500,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XS"
   },
   {
     "Name": "Oarfish",
@@ -2071,7 +2162,8 @@
     ],
     "TimesString": "All day",
     "Price": 9000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL"
   },
   {
     "Name": "Ocean Sunfish",
@@ -2091,9 +2183,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 AM - 9 PM",
+    "TimesString": "4AM - 9PM",
     "Price": 4000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL (Fin)"
   },
   {
     "Name": "Olive Flounder",
@@ -2115,7 +2208,8 @@
     ],
     "TimesString": "All day",
     "Price": 800,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "L"
   },
   {
     "Name": "Pale Chub",
@@ -2135,9 +2229,10 @@
         "All": false
       }
     ],
-    "TimesString": "9 AM - 4 PM",
+    "TimesString": "9AM - 4PM",
     "Price": 200,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XS"
   },
   {
     "Name": "Pike",
@@ -2159,7 +2254,8 @@
     ],
     "TimesString": "All day",
     "Price": 1800,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "L"
   },
   {
     "Name": "Piranha",
@@ -2179,9 +2275,10 @@
         "All": false
       }
     ],
-    "TimesString": "9 AM - 4 PM4 AM - 9 PM",
+    "TimesString": "9AM - 4PM4AM - 9PM",
     "Price": 2500,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Pond Smelt",
@@ -2203,7 +2300,8 @@
     ],
     "TimesString": "All day",
     "Price": 320,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Pop-eyed Goldfish",
@@ -2225,7 +2323,8 @@
     ],
     "TimesString": "9AM - 4PM",
     "Price": 1300,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XS"
   },
   {
     "Name": "Puffer Fish",
@@ -2247,7 +2346,8 @@
     ],
     "TimesString": "All day",
     "Price": 250,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Rainbowfish",
@@ -2267,9 +2367,10 @@
         "All": false
       }
     ],
-    "TimesString": "9 AM - 4 PM",
+    "TimesString": "9AM - 4PM",
     "Price": 800,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XS"
   },
   {
     "Name": "Ranchu Goldfish",
@@ -2289,9 +2390,10 @@
         "All": false
       }
     ],
-    "TimesString": "9 AM - 4 PM",
+    "TimesString": "9AM - 4PM",
     "Price": 4500,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Ray",
@@ -2311,9 +2413,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 AM - 9 PM",
+    "TimesString": "4AM - 9PM",
     "Price": 3000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "L"
   },
   {
     "Name": "Red Snapper",
@@ -2335,7 +2438,8 @@
     ],
     "TimesString": "All day",
     "Price": 3000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XL"
   },
   {
     "Name": "Ribbon Eel",
@@ -2357,7 +2461,8 @@
     ],
     "TimesString": "All day",
     "Price": 600,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Narrow"
   },
   {
     "Name": "Salmon",
@@ -2379,7 +2484,8 @@
     ],
     "TimesString": "All day",
     "Price": 700,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XL"
   },
   {
     "Name": "Saw Shark",
@@ -2399,9 +2505,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 12000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL (Fin)"
   },
   {
     "Name": "Sea Bass",
@@ -2423,7 +2530,8 @@
     ],
     "TimesString": "All day",
     "Price": 400,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "L"
   },
   {
     "Name": "Sea Butterfly",
@@ -2445,7 +2553,8 @@
     ],
     "TimesString": "All day",
     "Price": 1000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XS"
   },
   {
     "Name": "Seahorse",
@@ -2467,7 +2576,8 @@
     ],
     "TimesString": "All day",
     "Price": 1100,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XS"
   },
   {
     "Name": "Soft-shelled Turtle",
@@ -2487,9 +2597,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 3750,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XL"
   },
   {
     "Name": "Squid",
@@ -2511,7 +2622,8 @@
     ],
     "TimesString": "All day",
     "Price": 500,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Stringfish",
@@ -2531,9 +2643,10 @@
         "All": false
       }
     ],
-    "TimesString": "4 PM - 9 AM",
+    "TimesString": "4PM - 9AM",
     "Price": 15000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "L"
   },
   {
     "Name": "Sturgeon",
@@ -2555,7 +2668,8 @@
     ],
     "TimesString": "All day",
     "Price": 10000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL"
   },
   {
     "Name": "Suckerfish",
@@ -2577,7 +2691,8 @@
     ],
     "TimesString": "All day",
     "Price": 1500,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL (Fin)"
   },
   {
     "Name": "Surgeonfish",
@@ -2599,7 +2714,8 @@
     ],
     "TimesString": "All day",
     "Price": 1000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "S"
   },
   {
     "Name": "Sweetfish",
@@ -2621,7 +2737,8 @@
     ],
     "TimesString": "All day",
     "Price": 900,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Tadpole",
@@ -2643,7 +2760,8 @@
     ],
     "TimesString": "All day",
     "Price": 100,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XS"
   },
   {
     "Name": "Tilapia",
@@ -2665,7 +2783,8 @@
     ],
     "TimesString": "All day",
     "Price": 800,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Tuna",
@@ -2687,7 +2806,8 @@
     ],
     "TimesString": "All day",
     "Price": 7000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL"
   },
   {
     "Name": "Whale Shark",
@@ -2709,7 +2829,8 @@
     ],
     "TimesString": "All day",
     "Price": 13000,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "XXL (Fin)"
   },
   {
     "Name": "Yellow Perch",
@@ -2731,7 +2852,8 @@
     ],
     "TimesString": "All day",
     "Price": 300,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   },
   {
     "Name": "Zebra Turkeyfish",
@@ -2758,6 +2880,7 @@
     ],
     "TimesString": "All day",
     "Price": 500,
-    "Type": "fish"
+    "Type": "fish",
+    "Size": "Medium"
   }
 ]
