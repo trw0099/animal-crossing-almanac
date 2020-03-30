@@ -204,33 +204,33 @@ class App extends React.Component {
         return (
             <Container>
                 <Row>
-                    <Col md="auto" className="mb-3">
+                    <Col xs="auto" className="mb-3">
                         <ToggleButtonGroup type="radio" name="animalType" defaultValue={'all'}>
                             <ToggleButton onClick={() => { this.filter("all") }} value={'all'} variant="secondary" title="Show all animals">All</ToggleButton>
                             <ToggleButton onClick={() => { this.filter("fish") }} value={'fish'} variant="primary" title="Show only fish"><FontAwesomeIcon icon={faFish} /></ToggleButton>
                             <ToggleButton onClick={() => { this.filter("bug") }} value={'bug'} variant="success" title="Show only bugs"><FontAwesomeIcon icon={faBug} /></ToggleButton>
                         </ToggleButtonGroup>
                     </Col>
-                    <Col md="auto" className="mb-3">
+                    <Col xs="auto" className="mb-3">
                         <ToggleButtonGroup type="radio" name="sortType" defaultValue={'price'}>
                             <ToggleButton onClick={() => { this.sort("price") }} value={'price'} variant="secondary" title="Sort by price">Price</ToggleButton>
                             <ToggleButton onClick={() => { this.sort("name") }} value={'name'} variant="secondary" title="Sort by name">Name</ToggleButton>
                             <ToggleButton onClick={() => { this.sort("location") }} value={'location'} variant="secondary" title="Sort by location">Location</ToggleButton>
                         </ToggleButtonGroup>
                     </Col>
-                    <Col md="auto" className="mb-3">
+                    <Col xs="auto" className="mb-3">
                         <ToggleButtonGroup type="radio" name="listType" defaultValue={'north'}>
                             <ToggleButton onClick={() => { this.setHemisphere("north") }} value={'north'} variant="secondary" title="Northern hemisphere">North</ToggleButton>
                             <ToggleButton onClick={() => { this.setHemisphere("south") }} value={'south'} variant="secondary" title="Southern hemisphere">South</ToggleButton>
                         </ToggleButtonGroup>
                     </Col>
-                    <Col md="auto" className="mb-3">
+                    <Col xs="auto" className="mb-3">
                         <ToggleButtonGroup type="radio" name="show" defaultValue={'now'}>
                             <ToggleButton onClick={() => { this.show("now") }} value={'now'} variant="secondary" title="Show animals available now">Now</ToggleButton>
                             <ToggleButton onClick={() => { this.show("all") }} value={'all'} variant="secondary" title="Show all animals">All</ToggleButton>
                         </ToggleButtonGroup>
                     </Col>
-                    <Col>
+                    <Col xs={12} sm>
                         <p className="float-right time">
                             <b>{this.state.time}</b>
                         </p>
