@@ -20,6 +20,7 @@ function Animal(props) {
                 <Card.Header>
                     {props.value.Name}
                     <span className="float-right">
+                        <span className="mr-1">{props.value.Size}</span>
                         <FontAwesomeIcon icon={props.value.Type === "fish" ? faFish : faBug} />
                     </span>
                 </Card.Header>
