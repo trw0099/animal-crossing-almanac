@@ -19,8 +19,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 3000,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Atlas Moth",
@@ -42,8 +41,7 @@
     ],
     "TimesString": "7PM - 4AM",
     "Price": 3000,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Ant",
@@ -65,8 +63,7 @@
     ],
     "TimesString": "All day",
     "Price": 80,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Bagworm",
@@ -88,8 +85,7 @@
     ],
     "TimesString": "All day",
     "Price": 600,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Centipede",
@@ -111,8 +107,7 @@
     ],
     "TimesString": "5PM - 11PM",
     "Price": 430,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Citrus Long-Horned Beetle",
@@ -134,8 +129,7 @@
     ],
     "TimesString": "All day",
     "Price": 350,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Common Butterfly",
@@ -157,8 +151,7 @@
     ],
     "TimesString": "4AM - 7PM",
     "Price": 160,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Cricket",
@@ -180,8 +173,7 @@
     ],
     "TimesString": "5PM - 8AM",
     "Price": 130,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Damselfly",
@@ -203,8 +195,7 @@
     ],
     "TimesString": "All day",
     "Price": 500,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Darner Dragonfly",
@@ -226,8 +217,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 230,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Diving Beetle",
@@ -249,8 +239,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 800,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Dung Beetle",
@@ -272,8 +261,7 @@
     ],
     "TimesString": "All day",
     "Price": 2500,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Earth-Boring Dung Beetle",
@@ -295,8 +283,7 @@
     ],
     "TimesString": "All day",
     "Price": 300,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Emperor Butterfly",
@@ -323,8 +310,7 @@
     ],
     "TimesString": "5PM - 8AM",
     "Price": 4000,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Flea",
@@ -346,8 +332,7 @@
     ],
     "TimesString": "All day",
     "Price": 70,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Fly",
@@ -369,8 +354,7 @@
     ],
     "TimesString": "All day",
     "Price": 60,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Grasshopper",
@@ -392,8 +376,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 160,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Hermit Crab",
@@ -415,8 +398,7 @@
     ],
     "TimesString": "7PM - 8AM",
     "Price": 1000,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Honeybee",
@@ -438,8 +420,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 200,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Ladybug",
@@ -466,8 +447,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 200,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Long Locust",
@@ -489,8 +469,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 200,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Madagascan Sunset Moth",
@@ -512,8 +491,7 @@
     ],
     "TimesString": "8AM - 4PM",
     "Price": 2500,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Man-Faced Stink Bug",
@@ -535,8 +513,7 @@
     ],
     "TimesString": "7PM - 8AM",
     "Price": 1000,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Mantis",
@@ -558,8 +535,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 430,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Migratory Locust",
@@ -581,8 +557,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 200,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Mole Cricket",
@@ -604,8 +579,7 @@
     ],
     "TimesString": "All day",
     "Price": 500,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Monarch Butterfly",
@@ -627,8 +601,7 @@
     ],
     "TimesString": "4AM - 5PM",
     "Price": 140,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Mosquito",
@@ -650,8 +623,7 @@
     ],
     "TimesString": "5PM - 4AM",
     "Price": 130,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Moth",
@@ -673,8 +645,7 @@
     ],
     "TimesString": "7PM - 4AM",
     "Price": 130,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Orchid Mantis",
@@ -696,8 +667,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 2400,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Paper Kite Butterfly",
@@ -719,8 +689,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 1000,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Peacock Butterfly",
@@ -742,8 +711,7 @@
     ],
     "TimesString": "4AM - 7PM",
     "Price": 2500,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Pill Bug",
@@ -765,8 +733,7 @@
     ],
     "TimesString": "11PM - 4PM",
     "Price": 250,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Pondskater",
@@ -788,8 +755,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 130,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Queen Alexandra’s Birdwing",
@@ -811,8 +777,7 @@
     ],
     "TimesString": "8AM - 4PM",
     "Price": 4000,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Rainbow Stag",
@@ -834,8 +799,7 @@
     ],
     "TimesString": "7PM - 8AM",
     "Price": 6000,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Rajah Brooke’s Birdwing",
@@ -862,8 +826,7 @@
     ],
     "TimesString": "8AM - 5PM",
     "Price": 2500,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Red Dragonfly",
@@ -885,8 +848,7 @@
     ],
     "TimesString": "8AM - 7PM",
     "Price": 180,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Rosalia Batsei Beetle",
@@ -908,8 +870,7 @@
     ],
     "TimesString": "All day",
     "Price": 3000,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Scorpion",
@@ -931,8 +892,7 @@
     ],
     "TimesString": "7PM - 4AM",
     "Price": 8000,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Snail",
@@ -954,8 +914,7 @@
     ],
     "TimesString": "All day",
     "Price": 250,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Spider",
@@ -977,8 +936,7 @@
     ],
     "TimesString": "7PM - 8AM",
     "Price": 600,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Stinkbug",
@@ -1000,8 +958,7 @@
     ],
     "TimesString": "All day",
     "Price": 120,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Tarantula",
@@ -1023,8 +980,7 @@
     ],
     "TimesString": "7PM - 4AM",
     "Price": 8000,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Tiger Beetle",
@@ -1046,8 +1002,7 @@
     ],
     "TimesString": "All day",
     "Price": 1500,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Tiger Butterfly",
@@ -1069,8 +1024,7 @@
     ],
     "TimesString": "4AM - 7PM",
     "Price": 240,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Violin Beetle",
@@ -1097,8 +1051,7 @@
     ],
     "TimesString": "All day",
     "Price": 450,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Walker Cicada",
@@ -1120,8 +1073,7 @@
     ],
     "TimesString": "8AM - 4PM",
     "Price": 400,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Walking Leaf",
@@ -1143,8 +1095,7 @@
     ],
     "TimesString": "All day",
     "Price": 600,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Walking Stick",
@@ -1171,8 +1122,7 @@
     ],
     "TimesString": "4AM - 8PM, 4PM - 8AM",
     "Price": 600,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Wasp",
@@ -1194,8 +1144,7 @@
     ],
     "TimesString": "All day",
     "Price": 2500,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Wharf Roach",
@@ -1217,8 +1166,7 @@
     ],
     "TimesString": "All day",
     "Price": 200,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Yellow Butterfly",
@@ -1245,8 +1193,7 @@
     ],
     "TimesString": "4AM - 7PM",
     "Price": 160,
-    "Type": "bug",
-    "Size": null
+    "Type": "bug"
   },
   {
     "Name": "Anchovy",
@@ -2882,5 +2829,235 @@
     "Price": 500,
     "Type": "fish",
     "Size": "M"
+  },
+  {
+    "Name": "Killifish",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr - Aug",
+    "Location": "Pond",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 300,
+    "Type": "fish",
+    "Size": "XS"
+  },
+  {
+    "Name": "Nibble Fish",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Sept",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 9,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "9AM - 4PM",
+    "Price": 1500,
+    "Type": "fish",
+    "Size": "S"
+  },
+  {
+    "Name": "Frog",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Aug",
+    "Location": "Pond",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 120,
+    "Type": "fish",
+    "Size": "S"
+  },
+  {
+    "Name": "Butterfly Fish",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr - Sept",
+    "Location": "Sea",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 1000,
+    "Type": "fish",
+    "Size": "S"
+  },
+  {
+    "Name": "Saddled Bichir",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 9,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Sept",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 21,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "9PM - 4AM",
+    "Price": 4000,
+    "Type": "fish",
+    "Size": "XL"
+  },
+  {
+    "Name": "Snapping Turtle",
+    "Seasons": [
+      {
+        "Start": 4,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "Apr - Oct",
+    "Location": "River",
+    "Times": [
+      {
+        "Start": 21,
+        "End": 4,
+        "All": false
+      }
+    ],
+    "TimesString": "9PM - 4AM",
+    "Price": 5000,
+    "Type": "fish",
+    "Size": "L"
+  },
+  {
+    "Name": "Giant Snakehead",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Aug",
+    "Location": "Pond",
+    "Times": [
+      {
+        "Start": 9,
+        "End": 16,
+        "All": false
+      }
+    ],
+    "TimesString": "9AM - 4PM",
+    "Price": 5500,
+    "Type": "fish",
+    "Size": "L"
+  },
+  {
+    "Name": "Mahi-Mahi",
+    "Seasons": [
+      {
+        "Start": 6,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "June - Oct",
+    "Location": "Pier",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 6000,
+    "Type": "fish",
+    "Size": "L"
+  },
+  {
+    "Name": "Giant Trevally",
+    "Seasons": [
+      {
+        "Start": 5,
+        "End": 10,
+        "All": false
+      }
+    ],
+    "SeasonsString": "May - Oct",
+    "Location": "Pier",
+    "Times": [
+      {
+        "Start": 0,
+        "End": 0,
+        "All": true
+      }
+    ],
+    "TimesString": "All day",
+    "Price": 4500,
+    "Type": "fish",
+    "Size": "L"
+  },
+  {
+    "Name": "Napoleonfish",
+    "Seasons": [
+      {
+        "Start": 7,
+        "End": 8,
+        "All": false
+      }
+    ],
+    "SeasonsString": "July - Aug",
+    "Location": "Sea",
+    "Times": [
+      {
+        "Start": 4,
+        "End": 21,
+        "All": false
+      }
+    ],
+    "TimesString": "4AM - 9PM",
+    "Price": 10000,
+    "Type": "fish",
+    "Size": "XXL"
   }
 ]
